@@ -12,15 +12,15 @@ author:
   #twitter:           #"paululele"
   #instagram:         #"paululele"
   github:            "mchchoi"
-  facebook:          #"Le.Paul.94"
-  linkedin:          #"lenpaul"
+#  facebook:          #"Le.Paul.94"
+#  linkedin:          #"lenpaul"
 navigation:
 - title: About
   url: /about
-- title: Writing
-  url: /writing
-- title: Teaching
-  url: /teaching
+#- title: Writing
+#  url: /writing
+#- title: Teaching
+#  url: /teaching
 - title: Research
   url: /research
 - title: Contact
