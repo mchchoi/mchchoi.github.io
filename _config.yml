@@ -9,8 +9,8 @@ github:
 author:
   name:              "Michael Choi"
   email:             "cc2373@cornell.edu"
-  twitter:           #"paululele"
-  instagram:         #"paululele"
+  #twitter:           #"paululele"
+  #instagram:         #"paululele"
   github:            "mchchoi"
   facebook:          #"Le.Paul.94"
   linkedin:          #"lenpaul"
@@ -19,6 +19,10 @@ navigation:
   url: /about
 - title: Writing
   url: /writing
+- title: Teaching
+  url: /teaching
+- title: Research
+  url: /research
 - title: Contact
   url: /contact
 
