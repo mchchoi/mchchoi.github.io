@@ -2,7 +2,7 @@
 title:               Michael Choi 
 tagline:             
 description:
-baseurl:            #"/Lagrange"
+baseurl:            "/about"
 url:                #"https://lenpaul.github.io"
 github:
   url:               #"https://lenpaul.github.io/Lagrange"
