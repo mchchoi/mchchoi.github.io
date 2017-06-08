@@ -4,7 +4,7 @@ title: Research
 ---
 ### Preprint: 
 
-Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](paper.pdf). Submitted.
+Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). Submitted.
 
 Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). Submitted. 
 
