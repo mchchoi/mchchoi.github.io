@@ -4,7 +4,9 @@ title: Research
 ---
 ### Preprint: 
 
-Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains.](https://michaelchchoi.files.wordpress.com/2014/08/paper_v3.pdf "paper_v3") Submitted. 
+Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](paper.pdf). Submitted.
+
+Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). Submitted. 
 
 Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://www.researchgate.net/publication/308265576_Skip-free_Markov_chains). Submitted. 
 
