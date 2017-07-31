@@ -3,7 +3,7 @@ layout: page
 title: Writing
 ---
 
-This page serves as a portfolio for some previous interesting coding projects that I have.
+This page serves as a portfolio for interesting coding projects.
 
 <ul class="posts">
   {% for post in site.posts %}
