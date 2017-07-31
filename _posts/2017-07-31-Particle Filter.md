@@ -4,7 +4,7 @@ title: "Naive particle filter in C++ from scratch"
 categories: journal
 tags: [particle filter]
 image:
-  feature: ""
+  feature: 
   teaser: ""
   credit: ""
   creditlink: ""
