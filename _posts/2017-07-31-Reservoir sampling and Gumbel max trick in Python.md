@@ -10,7 +10,8 @@ image:
   creditlink: ""
 ---
 
-[Jupyter notebook is here!](https://github.com/mchchoi/CS2024)
+[Jupyter notebook is here!](https://anaconda.org/hinizone/reservoirsampling/notebook)
+
 Recently I read from Twitter about reservoir sampling and the Gumbel max trick. This is my very own attempt to reproduce some of  the basic results from scratch.
 
 #### Formal reference:
@@ -35,4 +36,4 @@ Recently I read from Twitter about reservoir sampling and the Gumbel max trick. 
 
 [The Gumbel-Max Trick for Discrete Distributions](https://hips.seas.harvard.edu/blog/2013/04/06/the-gumbel-max-trick-for-discrete-distributions/)
 
-http://blog.geomblog.org/2005/10/priority-sampling.html
+[Priority Sampling...](http://blog.geomblog.org/2005/10/priority-sampling.html)
