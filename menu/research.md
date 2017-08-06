@@ -2,7 +2,7 @@
 layout: page
 title: Research 
 ---
-### Research Interst:
+### Research interests:
 
 - Markov processes: hitting time, mixing time, stationary time, eigentime, intertwining relationships, spectral theory, functional inequalities. 
 
