@@ -4,8 +4,9 @@ title: Research
 ---
 ### Research Interst:
 
-Markov processes: hitting time, mixing time, stationary time, eigentime, intertwining relationships, spectral theory, functional inequalities. 
-Statistics: Markov processes and stochastic gradient descent, statistical inference for Markov chains.
+- Markov processes: hitting time, mixing time, stationary time, eigentime, intertwining relationships, spectral theory, functional inequalities. 
+
+- Statistics: Markov processes and stochastic gradient descent, statistical inference for Markov chains.
 
 ### Preprint: 
 
