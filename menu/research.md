@@ -2,6 +2,11 @@
 layout: page
 title: Research 
 ---
+### Research Interst:
+
+Markov processes: hitting time, mixing time, stationary time, eigentime, intertwining relationships, spectral theory, functional inequalities. 
+Statistics: Markov processes and stochastic gradient descent, statistical inference for Markov chains.
+
 ### Preprint: 
 
 Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). Submitted. [Slides](/menu/BExam_Michael.pdf)
