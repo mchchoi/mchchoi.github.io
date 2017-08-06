@@ -4,7 +4,7 @@ title: Research
 ---
 ### Research interests:
 
-- Markov processes: hitting time, mixing time, stationary time, eigentime, intertwining relationships, spectral theory, functional inequalities. 
+- Markov processes: reversibility, spectral theory, hitting time, mixing time, stationary time, eigentime, intertwining relationships, spectral theory, functional inequalities, cutoff phenomenon.
 
 - Statistics: Markov processes and stochastic gradient descent, statistical inference for Markov chains.
 
