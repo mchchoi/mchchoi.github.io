@@ -6,7 +6,7 @@ title: Research
 
 - Markov processes: reversibility, spectral theory, hitting time, mixing time, stationary time, eigentime, intertwining relationships, spectral theory, functional inequalities, cutoff phenomenon.
 
-- Statistics: Markov processes and stochastic gradient descent, statistical inference for Markov chains.
+- Statistics: Markov processes and stochastic gradient descent, MCMC, statistical inference for Markov chains.
 
 ### Preprint: 
 
