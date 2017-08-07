@@ -2,7 +2,7 @@
 layout: page
 title: Research 
 ---
-[Researchgate](https://www.researchgate.net/profile/Michael_Chek_Hin_Choi)
+[ResearchGate](https://www.researchgate.net/profile/Michael_Chek_Hin_Choi)
 
 ### Research interests:
 
