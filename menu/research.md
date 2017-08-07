@@ -2,6 +2,8 @@
 layout: page
 title: Research 
 ---
+[Researchgate](https://www.researchgate.net/profile/Michael_Chek_Hin_Choi)
+
 ### Research interests:
 
 - Markov processes: reversibility, spectral theory, hitting time, mixing time, stationary time, eigentime, intertwining relationships, spectral theory, functional inequalities, cutoff phenomenon.
