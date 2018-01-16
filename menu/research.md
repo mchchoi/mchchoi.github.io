@@ -12,8 +12,6 @@ title: Research
 
 ### Preprint: 
 
-Michael C.H. Choi. [Hitting time and mixing time bounds of Stein's factors](https://arxiv.org/abs/1709.04848). Submitted.
-
 Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). Submitted. [Slides](/menu/BExam_Michael.pdf)
 
 Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). Submitted. [Slides](/menu/BExam_Michael.pdf)
@@ -21,6 +19,8 @@ Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Mark
 Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://www.researchgate.net/publication/308265576_Skip-free_Markov_chains). Submitted. 
 
 ### Publications: 
+
+Michael C.H. Choi. [Hitting time and mixing time bounds of Stein's factors](https://arxiv.org/abs/1709.04848). Electronic Communications in Probability. Accepted. 2018.
 
 Michael C.H. Choi, Pierre Patie. [A sufficient condition for continuous-time finite skip-free Markov chains to have real eigenvalues](http://link.springer.com/chapter/10.1007/978-3-319-30379-6_48). Proceedings of AMMCS-CAIMS 2015. 
 
