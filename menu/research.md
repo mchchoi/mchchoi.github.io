@@ -12,6 +12,8 @@ title: Research
 
 ### Preprint: 
 
+Michael C.H. Choi. [Velocity formulae between entropy and hitting time for Markov chains](/menu/entropy.pdf). Submitted.
+
 Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.
 
 Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). Submitted. [Slides](/menu/BExam_Michael.pdf)
