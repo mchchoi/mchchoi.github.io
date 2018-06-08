@@ -22,7 +22,7 @@ Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://www.researchg
 
 ### Publications:
 
-Michael C.H. Choi. [Velocity formulae between entropy and hitting time for Markov chains](/menu/entropy.pdf). Statistics and Probability letters, to appear.
+Michael C.H. Choi. [Velocity formulae between entropy and hitting time for Markov chains](https://www.sciencedirect.com/science/article/pii/S016771521830213X). Statistics and Probability letters, to appear.
 
 Michael C.H. Choi. [Hitting time and mixing time bounds of Stein's factors](https://projecteuclid.org/euclid.ecp/1518663615#info). Electron. Commun. Probab. 23 (2018), paper no. 6.
 
