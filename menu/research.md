@@ -12,6 +12,8 @@ title: Research
 
 <!--- Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted. -->
 
+Michael C.H. Choi. [Hitting time, access time and optimal transport on graphs](http://mchchoi.github.io/menu/OCMT.pdf). Submitted.
+
 Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). Submitted. [Slides](/menu/BExam_Michael.pdf)
 
 Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). Submitted. [Slides](/menu/BExam_Michael.pdf)
