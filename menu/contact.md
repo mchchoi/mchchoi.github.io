@@ -2,4 +2,5 @@
 layout: page
 title: Contact
 ---
-Find me by email at michaelchoi "at" cuhk "dot" edu "dot" cn.
+Address: Room 504, Daoyuan Building, The Chinese University of Hong Kong, Shenzhen, 518172
+Email: michaelchoi@cuhk.edu.cn.
