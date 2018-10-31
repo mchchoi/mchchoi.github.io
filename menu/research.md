@@ -10,6 +10,8 @@ title: Research
 
 ### Preprint: 
 
+Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). Submitted. 
+
 Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted. 
 
 Michael C.H. Choi. [Hitting time, access time and optimal transport on graphs](http://mchchoi.github.io/menu/OTMC.pdf). Submitted.
