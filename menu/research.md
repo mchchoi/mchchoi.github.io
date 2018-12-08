@@ -20,9 +20,9 @@ Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via s
 
 Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). Submitted. [Slides](/menu/BExam_Michael.pdf)
 
-Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://www.researchgate.net/publication/308265576_Skip-free_Markov_chains). Submitted. 
-
 ### Publications:
+
+Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://www.researchgate.net/publication/308265576_Skip-free_Markov_chains). To appear in Trans. Amer. Math. Soc..
 
 Michael C.H. Choi. [Velocity formulae between entropy and hitting time for Markov chains](https://www.sciencedirect.com/science/article/pii/S016771521830213X). Statist. Probab. Lett. (2018), Volume 141 Page 62-67.
 
