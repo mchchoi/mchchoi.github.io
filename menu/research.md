@@ -22,14 +22,14 @@ Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Mark
 
 ### Publications:
 
-Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://www.researchgate.net/publication/308265576_Skip-free_Markov_chains). To appear in Trans. Amer. Math. Soc..
+Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://www.researchgate.net/publication/308265576_Skip-free_Markov_chains). To appear in **Trans. Amer. Math. Soc.**.
 
-Michael C.H. Choi. [Velocity formulae between entropy and hitting time for Markov chains](https://www.sciencedirect.com/science/article/pii/S016771521830213X). Statist. Probab. Lett. (2018), Volume 141 Page 62-67.
+Michael C.H. Choi. [Velocity formulae between entropy and hitting time for Markov chains](https://www.sciencedirect.com/science/article/pii/S016771521830213X). **Statist. Probab. Lett.** (2018), Volume 141 Page 62-67.
 
-Michael C.H. Choi. [Hitting time and mixing time bounds of Stein's factors](https://projecteuclid.org/euclid.ecp/1518663615#info). Electron. Commun. Probab. 23 (2018), paper no. 6.
+Michael C.H. Choi. [Hitting time and mixing time bounds of Stein's factors](https://projecteuclid.org/euclid.ecp/1518663615#info). **Electron. Commun. Probab.** 23 (2018), paper no. 6.
 
-Michael C.H. Choi, Pierre Patie. [A sufficient condition for continuous-time finite skip-free Markov chains to have real eigenvalues](http://link.springer.com/chapter/10.1007/978-3-319-30379-6_48). Proceedings of AMMCS-CAIMS 2015. 
+Michael C.H. Choi, Pierre Patie. [A sufficient condition for continuous-time finite skip-free Markov chains to have real eigenvalues](http://link.springer.com/chapter/10.1007/978-3-319-30379-6_48). **Proceedings of AMMCS-CAIMS** 2015. 
 
-Michael C.H. Choi, Eric C.K. Cheung. [On the expected discounted dividends in the Cramer-Lundberg model with more frequent ruin monitoring than dividend decisions](http://dx.doi.org/10.1016/j.insmatheco.2014.08.009). Insurance Math. Econom. (2014) Volume 59 121-132.
+Michael C.H. Choi, Eric C.K. Cheung. [On the expected discounted dividends in the Cramer-Lundberg model with more frequent ruin monitoring than dividend decisions](http://dx.doi.org/10.1016/j.insmatheco.2014.08.009). **Insurance Math. Econom.** (2014) Volume 59 121-132.
 
 
