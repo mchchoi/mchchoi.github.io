@@ -22,7 +22,7 @@ Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Mark
 
 ### Publications:
 
-Michael C.H. Choi, Evelyn Li. [A Hoeffding's inequality for uniformly ergodic diffusion process](https://www.researchgate.net/publication/331274536_A_Hoeffding's_inequality_for_uniformly_ergodic_diffusion_process). To appear in **Statist. Probab. Lett.**.
+Michael C.H. Choi, Evelyn Li. [A Hoeffding's inequality for uniformly ergodic diffusion process](https://doi.org/10.1016/j.spl.2019.02.012). To appear in **Statist. Probab. Lett.**.
 
 Michael C.H. Choi. [On resistance distance of Markov chain and its sum rules](https://doi.org/10.1016/j.laa.2019.02.014). To appear in **Linear Algebra Appl.**.
 
