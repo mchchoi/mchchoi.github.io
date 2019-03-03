@@ -24,9 +24,9 @@ Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Mark
 
 Michael C.H. Choi, Evelyn Li. [A Hoeffding's inequality for uniformly ergodic diffusion process](https://doi.org/10.1016/j.spl.2019.02.012). To appear in **Statist. Probab. Lett.**.
 
-Michael C.H. Choi. [On resistance distance of Markov chain and its sum rules](https://doi.org/10.1016/j.laa.2019.02.014). To appear in **Linear Algebra Appl.**.
+Michael C.H. Choi. [On resistance distance of Markov chain and its sum rules](https://doi.org/10.1016/j.laa.2019.02.014). **Linear Algebra Appl.** (2019), Volume 571 Page 14-25.
 
-Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://doi.org/10.1090/tran/7773). To appear in **Trans. Amer. Math. Soc.**.
+Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://doi.org/10.1090/tran/7773). **Trans. Amer. Math. Soc.** (2019), Volume 371 Number 10 Page 7301-7342.
 
 Michael C.H. Choi. [Velocity formulae between entropy and hitting time for Markov chains](https://www.sciencedirect.com/science/article/pii/S016771521830213X). **Statist. Probab. Lett.** (2018), Volume 141 Page 62-67.
 
