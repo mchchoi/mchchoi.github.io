@@ -10,6 +10,8 @@ title: Research
 
 ### Preprint: 
 
+Michael C.H. Choi, Chihoon Lee and Jian Song. Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion. Submitted.
+
 Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted.
 
 Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). Submitted. 
