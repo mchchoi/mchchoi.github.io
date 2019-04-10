@@ -14,8 +14,6 @@ Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's iden
 
 Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted.
 
-Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). Submitted. 
-
 Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted. 
 
 Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). Submitted. [Slides](/menu/BExam_Michael.pdf)
@@ -23,6 +21,8 @@ Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via s
 Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). Submitted. [Slides](/menu/BExam_Michael.pdf)
 
 ### Publications:
+
+Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). **J. Theoret. Probab.**, to appear.
 
 Michael C.H. Choi, Evelyn Li. [A Hoeffding's inequality for uniformly ergodic diffusion process](https://doi.org/10.1016/j.spl.2019.02.012). **Statist. Probab. Lett.** (2019), Volume 150 Page 23-28.
 
