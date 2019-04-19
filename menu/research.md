@@ -20,7 +20,7 @@ Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via s
 
 ### Publications:
 
-Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.**, to appear. [Slides](/menu/BExam_Michael.pdf)
+Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.**, to appear. [Slides](/menu/BExam_Michael.pdf) [Journal](https://doi.org/10.1016/j.spa.2019.04.006)
 
 Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). **J. Theoret. Probab.**, to appear. [Journal](https://doi.org/10.1007/s10959-019-00903-2)
 
