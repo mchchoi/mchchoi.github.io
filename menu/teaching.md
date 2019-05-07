@@ -2,9 +2,11 @@
 layout: page
 title: Teaching 
 ---
+## Instructor:
 
-Teaching Assistant: 
+Spring 2019 - STA2001/DDA2001 Probability and Statistics I
 
+## Teaching Assistant: 
 
 ### Ph.D. level -
 Fall 2016 - ORIE6500 Applied Stochastic Processes, taught by [Prof. Sidney Resnick](https://people.orie.cornell.edu/sid/)
