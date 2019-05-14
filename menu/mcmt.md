@@ -2,9 +2,7 @@
 layout: page
 title: Minicourse on Markov chain mixing time  
 ---
-## Syllabus:
-
-[Syllabus](/menu/Syllabus.pdf)
+## [Syllabus](/menu/Syllabus.pdf)
 
 ## Lecture notes: 
 
