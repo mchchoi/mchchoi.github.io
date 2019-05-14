@@ -6,7 +6,7 @@ title: Research
 
 ### Research interests:
 
-- Markov processes, Markov chain Monte Carlo, stochastic modelling, applied probability.
+- Markov processes, Markov chain Monte Carlo, stochastic modelling, applied probability. \[[Teaching](/teaching.md)\]
 
 ### Preprint: 
 
