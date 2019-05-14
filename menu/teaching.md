@@ -2,7 +2,10 @@
 layout: page
 title: Teaching 
 ---
+
 ## Instructor:
+
+Summer 2019 - [Minicourse on Markov chain mixing time](mcmt.md)
 
 Spring 2019 - STA2001/DDA2001 Probability and Statistics I
 
