@@ -12,6 +12,6 @@ title: Minicourse on Markov chain mixing time
 
 [Lecture 3-4](/menu/LN3.pdf): The (separation) cutoff phenomenon
 
-Lecture 5: The log-Sobolev constant
+[Lecture 5](/menu/LN4.pdf): The log-Sobolev constant
 
 Lecture 6: Applications in Markov chain Monte Carlo
