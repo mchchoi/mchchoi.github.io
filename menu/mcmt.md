@@ -14,4 +14,4 @@ title: Minicourse on Markov chain mixing time
 
 [Lecture 5](/menu/LN4.pdf): The log-Sobolev constant
 
-Lecture 6: Applications in Markov chain Monte Carlo
+[Lecture 6](/menu/MCMC.pdf): Applications in Markov chain Monte Carlo
