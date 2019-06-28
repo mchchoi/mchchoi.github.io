@@ -14,11 +14,11 @@ Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kem
 
 Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). Submitted.
 
-Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted.
+Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted. \[[Slides](/menu/slides_SA.pdf)\] \[[Handwritten notes](/menu/handwritten_SA.pdf)\]
 
 Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted. 
 
-Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). Submitted. [Slides](/menu/BExam_Michael.pdf)
+Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). Submitted. \[[Slides](/menu/BExam_Michael.pdf)\]
 
 ### Publications:
 
