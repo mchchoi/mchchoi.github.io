@@ -10,7 +10,7 @@ title: Research
 
 ### Preprint: 
 
-Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes](https://arxiv.org/abs/1907.10318). Submitted.
+Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted.
 
 Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kemeny's constant for a class of non-Markovian matrices](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices). Submitted.
 
