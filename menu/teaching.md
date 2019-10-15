@@ -11,7 +11,7 @@ Fall 2019 - STA2002/DDA2002 Probability and Statistics II
 
 Summer 2019 - [Minicourse on Markov chain mixing time](mcmt)
 
-Spring 2019 - STA2001/DDA2001 Probability and Statistics I
+Spring 2019 - STA2001/DDA2001 Probability and Statistics I (Teaching evaluation: Clear Presentation 5.88/6.0, Enthusiastic 5.90/6.0)
 
 ## Teaching Assistant: 
 
