@@ -21,8 +21,8 @@ navigation:
   url: /research
 - title: Teaching
   url: /teaching
-- title: Minicourse on Markov chain mixing time
-  url: /mcmt
+#- title: Minicourse on Markov chain mixing time
+#  url: /mcmt
 #- title: Writing
 #  url: /writing
 - title: Contact
