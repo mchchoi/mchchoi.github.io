@@ -16,8 +16,6 @@ Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a
 
 Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kemeny's constant for a class of non-Markovian matrices](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices). Submitted.
 
-Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). Submitted.
-
 Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted. \[[Slides](/menu/slides_SA.pdf)\] \[[Handwritten notes](/menu/handwritten_SA.pdf)\]
 
 Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted. 
@@ -25,6 +23,8 @@ Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensio
 Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). Submitted. \[[Slides](/menu/BExam_Michael.pdf)\]
 
 ### Publications:
+
+Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). **Probab. Engrg. Inform. Sci.**, to appear.
 
 Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.**, to appear. \[[Slides](/menu/BExam_Michael.pdf)\] \[[Journal](https://doi.org/10.1016/j.spa.2019.04.006)\]
 
