@@ -8,7 +8,9 @@ title: Research
 
 ### Research interests:
 
-- Markov processes, Markov chain Monte Carlo, stochastic modelling, applied probability. 
+- **Markov chains, Markov processes: theory and applications**
+- **Stochastic algorithms: Markov chain Monte Carlo, Metropolis-Hastings, simulated annealing, Langevin dynamics**
+- **Applied probability**
 
 ### Preprint: 
 
