@@ -10,7 +10,7 @@ title: Research
 
 - **Markov chains, Markov processes: theory and applications**
 - **Stochastic algorithms: Markov chain Monte Carlo, Metropolis-Hastings, simulated annealing, Langevin dynamics**
-- **Applied probability**
+- **Applied probability, stochastic optimization**
 
 ### Preprint: 
 
