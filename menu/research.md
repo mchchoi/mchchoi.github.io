@@ -10,7 +10,7 @@ title: Research
 
 - **Markov chains, Markov processes: theory and applications**
 - **Stochastic algorithms: Markov chain Monte Carlo, Metropolis-Hastings, simulated annealing, Langevin dynamics**
-- **Applied probability, stochastic optimization**
+- **Applied probability, stochastic optimization, information theory**
 
 ### Preprint: 
 
@@ -26,7 +26,7 @@ Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via s
 
 ### Publications:
 
-Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). **Probab. Engrg. Inform. Sci.**, to appear.
+Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). **Probab. Engrg. Inform. Sci.**, to appear. \[[Journal]( https://doi.org/10.1017/S0269964819000421)\]
 
 Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.**, to appear. \[[Slides](/menu/BExam_Michael.pdf)\] \[[Journal](https://doi.org/10.1016/j.spa.2019.04.006)\]
 
