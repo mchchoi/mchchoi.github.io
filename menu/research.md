@@ -22,9 +22,9 @@ Michael C.H. Choi. [An accelerated variant of simulated annealing that converges
 
 Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted. 
 
-Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). Submitted. \[[Slides](/menu/BExam_Michael.pdf)\]
-
 ### Publications:
+
+Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). **Combin. Probab. Comput.**, to appear. \[[Slides](/menu/BExam_Michael.pdf)\]
 
 Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). **Probab. Engrg. Inform. Sci.**, to appear. \[[Journal]( https://doi.org/10.1017/S0269964819000421)\]
 
