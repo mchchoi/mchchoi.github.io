@@ -24,7 +24,7 @@ Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensio
 
 ### Publications:
 
-Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](http://mchchoi.github.io/menu/paper.pdf). **Combin. Probab. Comput.**, to appear. \[[Slides](/menu/BExam_Michael.pdf)\]
+Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](https://www.researchgate.net/publication/324518071_Analysis_of_non-reversible_Markov_chains_via_similarity_orbit). **Combin. Probab. Comput.**, to appear. \[[Slides](/menu/BExam_Michael.pdf)\]
 
 Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). **Probab. Engrg. Inform. Sci.**, to appear. \[[Journal]( https://doi.org/10.1017/S0269964819000421)\]
 
