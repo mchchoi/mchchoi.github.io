@@ -21,6 +21,8 @@ navigation:
   url: /research
 - title: Teaching
   url: /teaching
+ - title: Service
+  url: /service
 #- title: Minicourse on Markov chain mixing time
 #  url: /mcmt
 #- title: Writing
