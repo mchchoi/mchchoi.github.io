@@ -28,7 +28,7 @@ Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via s
 
 Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). **Probab. Engrg. Inform. Sci.**, to appear. \[[Journal]( https://doi.org/10.1017/S0269964819000421)\]
 
-Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.**, to appear. \[[Slides](/menu/BExam_Michael.pdf)\] \[[Journal](https://doi.org/10.1016/j.spa.2019.04.006)\]
+Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.** (2020), Volume 130 Issue 2 Page 1041-1073. \[[Slides](/menu/BExam_Michael.pdf)\] \[[Journal](https://doi.org/10.1016/j.spa.2019.04.006)\]
 
 Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). **J. Theoret. Probab.**, to appear. \[[Journal](https://doi.org/10.1007/s10959-019-00903-2)\]
 
