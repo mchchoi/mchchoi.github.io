@@ -9,7 +9,7 @@ Fall 2019 - DDA6030 Advanced Statistics Theory
 
 Fall 2019 - STA2002/DDA2002 Probability and Statistics II
 
-           - Midterm Teaching evaluation: Clear Presentation 5.84/6.0, Enthusiastic 5.92/6.0, Responses = 135
+           - Teaching evaluation: Clear Presentation 5.84/6.0, Enthusiastic 5.92/6.0, Responses = 135
 
 Summer 2019 - [Minicourse on Markov chain mixing time](mcmt)
 
