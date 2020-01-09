@@ -7,6 +7,8 @@ title: Teaching
 
 Fall 2019 - DDA6030 Advanced Statistics Theory
 
+           - Teaching evaluation: Clear Presentation 5.43/6.0, Enthusiastic 5.79/6.0, Responses = 16
+
 Fall 2019 - STA2002/DDA2002 Probability and Statistics II
 
            - Teaching evaluation: Clear Presentation 5.84/6.0, Enthusiastic 5.92/6.0, Responses = 135
