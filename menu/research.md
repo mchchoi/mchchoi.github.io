@@ -28,11 +28,11 @@ Michael C.H. Choi. [An accelerated variant of simulated annealing that converges
 
 Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](https://www.researchgate.net/publication/324518071_Analysis_of_non-reversible_Markov_chains_via_similarity_orbit). **Combin. Probab. Comput.**, to appear. \[[Slides](/menu/BExam_Michael.pdf)\] \[[<i class="ai ai-doi ai-2x"></i> Journal](http://dx.doi.org/10.1017/S0963548320000024)\]
 
-Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). **Probab. Engrg. Inform. Sci.**, to appear. \[[i class="ai ai-doi ai-2x"></i> Journal]( https://doi.org/10.1017/S0269964819000421)\]
+Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). **Probab. Engrg. Inform. Sci.**, to appear. \[[<i class="ai ai-doi ai-2x"></i> Journal]( https://doi.org/10.1017/S0269964819000421)\]
 
-Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.** (2020), Volume 130 Issue 2 Page 1041-1073. \[[Slides](/menu/BExam_Michael.pdf)\] \[[i class="ai ai-doi ai-2x"></i> Journal](https://doi.org/10.1016/j.spa.2019.04.006)\]
+Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.** (2020), Volume 130 Issue 2 Page 1041-1073. \[[Slides](/menu/BExam_Michael.pdf)\] \[[<i class="ai ai-doi ai-2x"></i> Journal](https://doi.org/10.1016/j.spa.2019.04.006)\]
 
-Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). **J. Theoret. Probab.**, to appear. \[[i class="ai ai-doi ai-2x"></i> Journal](https://doi.org/10.1007/s10959-019-00903-2)\]
+Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). **J. Theoret. Probab.**, to appear. \[[<i class="ai ai-doi ai-2x"></i> Journal](https://doi.org/10.1007/s10959-019-00903-2)\]
 
 Michael C.H. Choi, Evelyn Li. [A Hoeffding's inequality for uniformly ergodic diffusion process](https://doi.org/10.1016/j.spl.2019.02.012). **Statist. Probab. Lett.** (2019), Volume 150 Page 23-28.
 
