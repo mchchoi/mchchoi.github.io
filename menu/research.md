@@ -14,7 +14,7 @@ title: Research
 
 ### Preprints: 
 
-@icn-camera
+@ icon-ad
 
 Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted.
 
