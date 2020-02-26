@@ -2,7 +2,7 @@
 layout: page
 title: Research 
 ---
-\[[ResearchGate](https://www.researchgate.net/profile/Michael_Chek_Hin_Choi)\] \[[Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=lNt8be0AAAAJ)\] \[[ORCID](https://orcid.org/0000-0003-0309-3217)\] \[[MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1090620)\]
+\[[ResearchGate](https://www.researchgate.net/profile/Michael_Chek_Hin_Choi)\] \[[Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=lNt8be0AAAAJ)\] \[[<i class="ai ai-orcid ai-2x"></i>ORCID](https://orcid.org/0000-0003-0309-3217)\] \[[MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1090620)\]
 
 "Nothing takes place in the world whose meaning is not that of some maximum or minimum" - Leonhard Euler
 
@@ -14,7 +14,7 @@ title: Research
 
 ### Preprints: 
 
-#### <i class="ai ai-google-scholar-square ai-3x"></i> Configuration
+<i class="ai ai-orcid ai-2x"></i> Configuration
 
 Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted.
 
