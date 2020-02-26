@@ -14,13 +14,13 @@ title: Research
 
 ### Preprints: 
 
-Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted.
+Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted. [<i class="ai ai-researchgate ai-2x"></i>](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime)
 
-Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted.
+Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted. [<i class="ai ai-arxiv ai-2x"></i>](https://arxiv.org/abs/1907.10318)
 
-Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kemeny's constant for a class of non-Markovian matrices](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices). Submitted.
+Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kemeny's constant for a class of non-Markovian matrices](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices). Submitted. [<i class="ai ai-researchgate ai-2x"></i>](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices)
 
-Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted. \[[Slides](/menu/slides_SA.pdf)\] \[[Handwritten notes](/menu/handwritten_SA.pdf)\]
+Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted. \[[Slides](/menu/slides_SA.pdf)\] \[[Handwritten notes](/menu/handwritten_SA.pdf)\] [<i class="ai ai-arxiv ai-2x"></i>](https://arxiv.org/abs/1901.10269)
 
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
@@ -38,14 +38,14 @@ Michael C.H. Choi, Evelyn Li. [A Hoeffding's inequality for uniformly ergodic di
 
 Michael C.H. Choi. [On resistance distance of Markov chain and its sum rules](https://doi.org/10.1016/j.laa.2019.02.014). **Linear Algebra Appl.** (2019), Volume 571 Page 14-25. [<i class="ai ai-arxiv ai-2x"></i>](https://arxiv.org/abs/1902.09078)[<i class="ai ai-doi ai-2x"></i>](https://doi.org/10.1016/j.laa.2019.02.014)
 
-Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://doi.org/10.1090/tran/7773). **Trans. Amer. Math. Soc.** (2019), Volume 371 Number 10 Page 7301-7342.
+Michael C.H. Choi, Pierre Patie. [Skip-free Markov chains](https://doi.org/10.1090/tran/7773). **Trans. Amer. Math. Soc.** (2019), Volume 371 Number 10 Page 7301-7342. [<i class="ai ai-arxiv ai-2x"></i>](https://arxiv.org/abs/1903.00139)[<i class="ai ai-doi ai-2x"></i>](https://doi.org/10.1090/tran/7773)
 
-Michael C.H. Choi. [Velocity formulae between entropy and hitting time for Markov chains](https://www.sciencedirect.com/science/article/pii/S016771521830213X). **Statist. Probab. Lett.** (2018), Volume 141 Page 62-67. 
+Michael C.H. Choi. [Velocity formulae between entropy and hitting time for Markov chains](https://www.sciencedirect.com/science/article/pii/S016771521830213X). **Statist. Probab. Lett.** (2018), Volume 141 Page 62-67. [<i class="ai ai-arxiv ai-2x"></i>](https://arxiv.org/abs/1805.02162)[<i class="ai ai-doi ai-2x"></i>](https://www.sciencedirect.com/science/article/pii/S016771521830213X)
 
-Michael C.H. Choi. [Hitting time and mixing time bounds of Stein's factors](https://projecteuclid.org/euclid.ecp/1518663615#info). **Electron. Commun. Probab.** 23 (2018), paper no. 6.
+Michael C.H. Choi. [Hitting time and mixing time bounds of Stein's factors](https://projecteuclid.org/euclid.ecp/1518663615#info). **Electron. Commun. Probab.** 23 (2018), paper no. 6. [<i class="ai ai-arxiv ai-2x"></i>](https://arxiv.org/abs/1709.04848)[<i class="ai ai-doi ai-2x"></i>](https://doi.org/10.1214/18-ECP110)
 
 Michael C.H. Choi, Pierre Patie. [A sufficient condition for continuous-time finite skip-free Markov chains to have real eigenvalues](http://link.springer.com/chapter/10.1007/978-3-319-30379-6_48). **Proceedings of AMMCS-CAIMS** 2015. 
 
-Michael C.H. Choi, Eric C.K. Cheung. [On the expected discounted dividends in the Cramer-Lundberg model with more frequent ruin monitoring than dividend decisions](http://dx.doi.org/10.1016/j.insmatheco.2014.08.009). **Insurance Math. Econom.** (2014) Volume 59 121-132.
+Michael C.H. Choi, Eric C.K. Cheung. [On the expected discounted dividends in the Cramer-Lundberg model with more frequent ruin monitoring than dividend decisions](http://dx.doi.org/10.1016/j.insmatheco.2014.08.009). **Insurance Math. Econom.** (2014) Volume 59 121-132. [<i class="ai ai-doi ai-2x"></i>](http://dx.doi.org/10.1016/j.insmatheco.2014.08.009)
 
 
