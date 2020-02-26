@@ -2,7 +2,7 @@
 layout: page
 title: Research 
 ---
-\[[<i class="ai ai-researchgate ai-lg"></i>Researchgate](https://www.researchgate.net/profile/Michael_Chek_Hin_Choi)\] \[[<i class="ai ai-google-scholar ai-lg"></i>Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=lNt8be0AAAAJ)\] \[[<i class="ai ai-orcid ai-lg"></i>ORCID](https://orcid.org/0000-0003-0309-3217)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/search/?searchtype=author&query=Choi%2C+M+C+H)\] \[[MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1090620)\]
+\[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/profile/Michael_Chek_Hin_Choi)\] \[[<i class="ai ai-google-scholar ai-lg"></i>Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=lNt8be0AAAAJ)\] \[[<i class="ai ai-orcid ai-lg"></i>ORCID](https://orcid.org/0000-0003-0309-3217)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/search/?searchtype=author&query=Choi%2C+M+C+H)\] \[[MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1090620)\]
 
 "Nothing takes place in the world whose meaning is not that of some maximum or minimum" - Leonhard Euler
 
@@ -14,19 +14,19 @@ title: Research
 
 ### Preprints: 
 
-Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted. [<i class="ai ai-researchgate ai-lg"></i>](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime)
+Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime)\]
 
-Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted. [<i class="ai ai-arxiv ai-lg"></i>](https://arxiv.org/abs/1907.10318)
+Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1907.10318)\]
 
-Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kemeny's constant for a class of non-Markovian matrices](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices). Submitted. [<i class="ai ai-researchgate ai-lg"></i>](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices)
+Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kemeny's constant for a class of non-Markovian matrices](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices). Submitted. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices)\]
 
-Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted. \[[Slides](/menu/slides_SA.pdf)\] \[[Handwritten notes](/menu/handwritten_SA.pdf)\] [<i class="ai ai-arxiv ai-lg"></i>](https://arxiv.org/abs/1901.10269)
+Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted. \[[Slides](/menu/slides_SA.pdf)\] \[[Handwritten notes](/menu/handwritten_SA.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1901.10269)\]
 
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
 ### Publications:
 
-Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](https://www.researchgate.net/publication/324518071_Analysis_of_non-reversible_Markov_chains_via_similarity_orbit). **Combin. Probab. Comput.**, to appear. \[[Slides](/menu/BExam_Michael.pdf)\] [<i class="ai ai-arxiv ai-lg"></i>](https://arxiv.org/abs/1912.10715)[<i class="ai ai-doi ai-lg"></i>](http://dx.doi.org/10.1017/S0963548320000024)
+Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](https://www.researchgate.net/publication/324518071_Analysis_of_non-reversible_Markov_chains_via_similarity_orbit). **Combin. Probab. Comput.**, to appear. \[[Slides](/menu/BExam_Michael.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1912.10715)\]\[[<i class="ai ai-doi ai-lg"></i>doi](http://dx.doi.org/10.1017/S0963548320000024)\]
 
 Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). **Probab. Engrg. Inform. Sci.**, to appear. [<i class="ai ai-arxiv ai-lg"></i>](https://arxiv.org/abs/1903.12325)[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1017/S0269964819000421)
 
