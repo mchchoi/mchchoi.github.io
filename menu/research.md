@@ -2,7 +2,7 @@
 layout: page
 title: Research 
 ---
-\[[ResearchGate](https://www.researchgate.net/profile/Michael_Chek_Hin_Choi)\] \[[Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=lNt8be0AAAAJ)\] \[[<i class="ai ai-orcid ai-2x"></i>ORCID](https://orcid.org/0000-0003-0309-3217)\] \[[MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1090620)\]
+\[[<i class="ai ai-researchgate ai-2x"></i>ResearchGate](https://www.researchgate.net/profile/Michael_Chek_Hin_Choi)\] \[[<i class="ai ai-google-scholar ai-2x"></i>Google Scholar](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=lNt8be0AAAAJ)\] \[[<i class="ai ai-orcid ai-2x"></i>ORCID](https://orcid.org/0000-0003-0309-3217)\] \[[MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1090620)\]
 
 "Nothing takes place in the world whose meaning is not that of some maximum or minimum" - Leonhard Euler
 
