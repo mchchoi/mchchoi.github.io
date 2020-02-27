@@ -14,27 +14,23 @@ title: Research
 
 ### Preprints: 
 
-Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted. 
-<br/>&nbsp;&nbsp;\[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime)\]
+Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime)\]
 
-Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted. 
-<br/>&nbsp;&nbsp;\[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1907.10318)\]
+Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1907.10318)\]
 
-Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kemeny's constant for a class of non-Markovian matrices](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices). Submitted. 
-<br/>&nbsp;&nbsp;\[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices)\]
+Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kemeny's constant for a class of non-Markovian matrices](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices). Submitted. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices)\]
 
-Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted. 
-<br/>&nbsp;&nbsp;\[[<i class="fas fa-file-pdf fa-sm"></i>Slides](/menu/slides_SA.pdf)\] \[[<i class="fas fa-file-pdf fa-sm"></i>Handwritten notes](/menu/handwritten_SA.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1901.10269)\]
+Michael C.H. Choi. [An accelerated variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted. \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/slides_SA.pdf)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Handwritten notes](/menu/handwritten_SA.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1901.10269)\]
 
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
 ### Publications:
 
-Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](https://www.researchgate.net/publication/324518071_Analysis_of_non-reversible_Markov_chains_via_similarity_orbit). **Combin. Probab. Comput.**, to appear. \[[<i class="fas fa-file-pdf fa-sm"></i>Slides](/menu/BExam_Michael.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1912.10715)\]\[[<i class="ai ai-doi ai-lg"></i>doi](http://dx.doi.org/10.1017/S0963548320000024)\]
+Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](https://www.researchgate.net/publication/324518071_Analysis_of_non-reversible_Markov_chains_via_similarity_orbit). **Combin. Probab. Comput.**, to appear. \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/BExam_Michael.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1912.10715)\]\[[<i class="ai ai-doi ai-lg"></i>doi](http://dx.doi.org/10.1017/S0963548320000024)\]
 
 Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's identity for a class of stochastic differential equations driven by fractional Brownian motion](http://arxiv.org/abs/1903.12325). **Probab. Engrg. Inform. Sci.**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1903.12325)\]\[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1017/S0269964819000421)\]
 
-Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.** (2020), Volume 130 Issue 2 Page 1041-1073. \[[<i class="fas fa-file-pdf fa-sm"></i>Slides](/menu/BExam_Michael.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1706.00068)\]\[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1016/j.spa.2019.04.006)\]
+Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.** (2020), Volume 130 Issue 2 Page 1041-1073. \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/BExam_Michael.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1706.00068)\]\[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1016/j.spa.2019.04.006)\]
 
 Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). **J. Theoret. Probab.**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1810.11763)\]\[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1007/s10959-019-00903-2)\]
 
