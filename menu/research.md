@@ -32,7 +32,7 @@ Michael C.H. Choi, Chihoon Lee and Jian Song. [Entropy flow and De Bruijn's iden
 
 Michael C.H. Choi. [Metropolis-Hastings reversiblizations of non-reversible Markov chains](https://arxiv.org/abs/1706.00068). **Stochastic Process. Appl.** (2020), Volume 130 Issue 2 Page 1041-1073. \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/BExam_Michael.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1706.00068)\]\[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1016/j.spa.2019.04.006)\]
 
-Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). **J. Theoret. Probab.**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1810.11763)\]\[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1007/s10959-019-00903-2)\]
+Michael C.H. Choi and Lu-Jing Huang. [On hitting time, mixing time and geometric interpretations of Metropolis-Hastings reversiblizations](https://arxiv.org/abs/1810.11763). **J. Theoret. Probab.** (2020), Volume 33 Issue 2 Page 1144-1163. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1810.11763)\]\[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1007/s10959-019-00903-2)\]
 
 Michael C.H. Choi, Evelyn Li. [A Hoeffding's inequality for uniformly ergodic diffusion process](https://doi.org/10.1016/j.spl.2019.02.012). **Statist. Probab. Lett.** (2019), Volume 150 Page 23-28. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1903.10125)\]\[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1016/j.spl.2019.02.012)\]
 
