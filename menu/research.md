@@ -9,7 +9,7 @@ title: Research
 ### <i class="fas fa-chalkboard-teacher fa-lg"></i> Research interests:
 
  <i class="fas fa-book fa-sm"></i> **Markov chains, Markov processes: theory and applications** <br />
- <i class="fas fa-book fa-sm"></i> **Stochastic algorithms: Markov chain Monte Carlo, Metropolis-Hastings, simulated annealing, Langevin dynamics** <br />
+ <i class="fas fa-book fa-sm"></i> **Stochastic algorithms: Markov chain Monte Carlo, Metropolis-Hastings, simulated annealing, Langevin dynamics, Hamiltonian Monte Carlo** <br />
  <i class="fas fa-book fa-sm"></i> **Statistical physics, applied probability, stochastic optimization, information theory** <br />
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
