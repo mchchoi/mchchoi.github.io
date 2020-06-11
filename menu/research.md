@@ -6,6 +6,14 @@ title: Research
 
 "Nothing takes place in the world whose meaning is not that of some maximum or minimum" - Leonhard Euler
 
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="menu/.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line --
+
 ### <i class="fas fa-chalkboard-teacher fa-lg"></i> Research interests:
 
  <i class="fas fa-book fa-sm"></i> **Markov chains, Markov processes: theory and applications** <br />
