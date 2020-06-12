@@ -18,7 +18,7 @@ title: Research
 </div>
 <!-- blank line -->
 <div align="center">
-##### Left: Classical Langevin diffusion on the contour lines of Ackley function. Right: Improved Langevin diffusion by Fang et al. (SPA 1997)
+Left: Classical Langevin diffusion on the contour lines of Ackley function. Right: Improved Langevin diffusion by Fang et al. (SPA 1997)
 </div>
 
 <!-- blank line -->
