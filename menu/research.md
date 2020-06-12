@@ -12,7 +12,7 @@ title: Research
         <source src="/menu/Langevin.mp4" type="video/mp4">
     </video>
     <video class="center" id="home2" width="320" height="240" controls="controls" allowfullscreen="true"> 
-        <source src="/menu/Langevin.mp4" type="video/mp4">
+        <source src="/menu/Improved.mp4" type="video/mp4">
     </video>
     <div class="clear"></div> 
 </div>
