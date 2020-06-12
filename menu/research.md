@@ -6,7 +6,6 @@ title: Research
 
 "Nothing takes place in the world whose meaning is not that of some maximum or minimum" - Leonhard Euler
 
-#### Left: Classical Langevin diffusion on the contour lines of Ackley function. Right: Improved Langevin diffusion by Fang et al. (SPA 1997)
 <!-- blank line -->
 <div id="wrapper" style="text-align:center;"> 
     <video class="center" id="home1" width="320" height="240" controls="controls" allowfullscreen="true"> 
@@ -18,6 +17,9 @@ title: Research
     <div class="clear"></div> 
 </div>
 <!-- blank line -->
+<div align="center">
+##### Left: Classical Langevin diffusion on the contour lines of Ackley function. Right: Improved Langevin diffusion by Fang et al. (SPA 1997)
+</div>
 
 <!-- blank line -->
 <!---<figure class="video_container">
