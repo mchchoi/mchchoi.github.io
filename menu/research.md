@@ -7,6 +7,18 @@ title: Research
 "Nothing takes place in the world whose meaning is not that of some maximum or minimum" - Leonhard Euler
 
 <!-- blank line -->
+<div id="wrapper"> 
+    <video id="home1" width="320" height="240" controls="controls" allowfullscreen="true"> 
+        <source src="/menu/Langevin.mp4" type="video/mp4">
+    </video>
+    <video id="home2" width="320" height="240" controls="controls" allowfullscreen="true"> 
+        <source src="/menu/Langevin.mp4" type="video/mp4">
+    </video>
+    <div class="clear"></div> 
+</div>
+<!-- blank line -->
+
+<!-- blank line -->
 <!---<figure class="video_container">
   <video width="320" height="240" controls="true" allowfullscreen="true">
     <source src="/menu/Langevin.mp4" type="video/mp4">
