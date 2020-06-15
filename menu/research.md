@@ -23,10 +23,7 @@ Left: Langevin diffusion on the contour lines of Ackley function. Right: Improve
 
 <!-- blank line -->
 <figure class="video_container">
-  <video width="320" height="240" controls="true" allowfullscreen="true">
-     <!--<iframe src="https://drive.google.com/file/d/1JvPI64_qKy_CWiRaC_1IgSNcZba6Y5rE/preview" width="640" height="480"></iframe> -->
-    <source src="https://drive.google.com/file/d/1JvPI64_qKy_CWiRaC_1IgSNcZba6Y5rE/preview" type="video/mp4">
-  </video>
+     <iframe src="https://drive.google.com/file/d/1JvPI64_qKy_CWiRaC_1IgSNcZba6Y5rE/preview" width="640" height="480"></iframe>
 </figure>
 <!-- blank line -->
 
