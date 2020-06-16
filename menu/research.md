@@ -7,6 +7,17 @@ title: Research
 "Nothing takes place in the world whose meaning is not that of some maximum or minimum" - Leonhard Euler
 
 <!-- blank line -->
+<div align="center">
+<figure class="video_container">
+     <iframe src="https://streamable.com/e/cgcrru" width="640" height="320" frameborder="0" allowfullscreen></iframe>
+</figure>
+</div>
+<div align="center">
+Comparing 4 Langevin diffusions and momentum method on Ackley function.
+</div>
+<!-- blank line -->
+
+<!-- blank line -->
 <div id="wrapper" style="text-align:center;"> 
     <video class="center" id="home1" width="320" height="240" controls="controls" allowfullscreen="true"> 
         <source src="/menu/Langevin.mp4" type="video/mp4">
@@ -20,14 +31,6 @@ title: Research
 <div align="center">
 Left: Langevin diffusion on the contour lines of Ackley function. Right: Improved Langevin diffusion by Fang et al. (SPA 1997)
 </div>
-
-<!-- blank line -->
-<div align="center">
-<figure class="video_container">
-     <iframe src="https://streamable.com/e/cgcrru" width="320" height="240" frameborder="0" allowfullscreen></iframe>
-</figure>
-</div>
-<!-- blank line -->
 
 ### <i class="fas fa-chalkboard-teacher fa-lg"></i> Research interests:
 
