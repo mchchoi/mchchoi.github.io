@@ -22,9 +22,11 @@ Left: Langevin diffusion on the contour lines of Ackley function. Right: Improve
 </div>
 
 <!-- blank line -->
+<div align="center">
 <figure class="video_container">
-     <iframe src="https://streamable.com/e/cgcrru" width="320" height="180" frameborder="0" allowfullscreen></iframe>
+     <iframe src="https://streamable.com/e/cgcrru" width="320" height="240" frameborder="0" allowfullscreen></iframe>
 </figure>
+</div>
 <!-- blank line -->
 
 ### <i class="fas fa-chalkboard-teacher fa-lg"></i> Research interests:
