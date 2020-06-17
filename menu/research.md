@@ -9,7 +9,7 @@ title: Research
 <!-- blank line -->
 <div align="center">
 <figure class="video_container">
-     <iframe src="https://streamable.com/yeeftx" width="640" height="320" frameborder="0" allowfullscreen></iframe>
+     <iframe src="https://streamable.com/e/yeeftx" width="640" height="320" frameborder="0" allowfullscreen></iframe>
 </figure>
 </div>
 <div align="center">
