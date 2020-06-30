@@ -3,6 +3,8 @@ layout: page
 title: Teaching 
 ---
 
+"The purpose of life is to discover your gift; the work of life is to develop it; and the meaning of life is to give your gift away." David Viscott
+
 ## Instructor:
 
 Fall 2019 - DDA6030 Advanced Statistics Theory
