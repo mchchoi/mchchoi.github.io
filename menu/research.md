@@ -46,11 +46,11 @@ Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a
 
 Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kemeny's constant for a class of non-Markovian matrices](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices). Submitted. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices)\]
 
-Michael C.H. Choi. [An improved variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). Submitted. \[[<i class="fas fa-file-pdf fa-sm"></i>Slides](/menu/slides_SA.pdf)\] \[[<i class="fas fa-file-pdf fa-sm"></i>Handwritten notes](/menu/handwritten_SA.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1901.10269)\]
-
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
+
+Michael C.H. Choi. [An improved variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). **Markov Process. Related Fields**, to appear. \[[<i class="fas fa-file-pdf fa-sm"></i>Slides](/menu/slides_SA.pdf)\] \[[<i class="fas fa-file-pdf fa-sm"></i>Handwritten notes](/menu/handwritten_SA.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1901.10269)\]
 
 Michael C.H. Choi, Pierre Patie. [Analysis of non-reversible Markov chains via similarity orbit](https://www.researchgate.net/publication/324518071_Analysis_of_non-reversible_Markov_chains_via_similarity_orbit). **Combin. Probab. Comput.**, to appear. \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/BExam_Michael.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1912.10715)\]\[[<i class="ai ai-doi ai-lg"></i>doi](http://dx.doi.org/10.1017/S0963548320000024)\]
 
