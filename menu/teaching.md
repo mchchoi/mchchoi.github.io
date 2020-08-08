@@ -7,6 +7,8 @@ title: Teaching
 
 ## Instructor:
 
+Fall 2020 - STA2002 Probability and Statistics II
+
 Fall 2019 - DDA6030 Advanced Statistics Theory
 
            - Teaching evaluation: Clear Presentation 5.43/6.0, Enthusiastic 5.79/6.0, Responses = 16
