@@ -40,6 +40,8 @@ Left: Langevin diffusion on the contour lines of Ackley function. Right: Improve
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
+Michael C.H. Choi. [On the convergence of an improved and adaptive kinetic simulated annealing](https://arxiv.org/abs/2009.00195). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2009.00195)\]
+
 Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime)\]
 
 Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1907.10318)\]
