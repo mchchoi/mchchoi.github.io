@@ -40,7 +40,7 @@ Left: Langevin diffusion on the contour lines of Ackley function. Right: Improve
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
-Michael C.H. Choi. [On the convergence of an improved and adaptive kinetic simulated annealing](https://arxiv.org/abs/2009.00195v2). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2009.00195v2)\]  \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Warwick.pdf)\] \[Youtube(https://www.youtube.com/watch?v=nC0dyeXZWAo)\]
+Michael C.H. Choi. [On the convergence of an improved and adaptive kinetic simulated annealing](https://arxiv.org/abs/2009.00195v2). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2009.00195v2)\]  \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Warwick.pdf)\] \[[Youtube](https://www.youtube.com/watch?v=nC0dyeXZWAo)\]
 
 Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime)\]
 
