@@ -44,8 +44,6 @@ Michael C.H. Choi. [On the convergence of an improved discrete simulated anneali
 
 Michael C.H. Choi. [On the convergence of an improved and adaptive kinetic simulated annealing](https://arxiv.org/abs/2009.00195v2). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2009.00195v2)\]  \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Warwick.pdf)\] \[[<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/watch?v=nC0dyeXZWAo)\]
 
-Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). Submitted. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime)\]
-
 Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1907.10318)\]
 
 Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kemeny's constant for a class of non-Markovian matrices](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices). Submitted. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/332603447_Generalized_Markov_chain_tree_theorem_and_Kemeny%27s_constant_for_a_class_of_non-Markovian_matrices)\]
@@ -53,6 +51,8 @@ Michael C.H. Choi, Zhipeng Huang. [Generalized Markov chain tree theorem and Kem
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
+
+Michael C.H. Choi. [Hitting, mixing and tunneling asymptotics of Metropolis-Hastings reversiblizations in the low-temperature regime](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime). **J. Math. Anal. Appl**, to appear. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/338478472_Hitting_mixing_and_tunneling_asymptotics_of_Metropolis-Hastings_reversiblizations_in_the_low-temperature_regime)\]
 
 Michael C.H. Choi. [An improved variant of simulated annealing that converges under fast cooling](https://arxiv.org/abs/1901.10269). **Markov Process. Related Fields**, to appear. \[[<i class="fas fa-file-pdf fa-sm"></i>Slides](/menu/slides_SA.pdf)\] \[[<i class="fas fa-file-pdf fa-sm"></i>Handwritten notes](/menu/handwritten_SA.pdf)\] \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1901.10269)\]
 
