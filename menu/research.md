@@ -32,6 +32,21 @@ Comparing 4 Langevin diffusions and momentum method on Ackley function.
 Left: Langevin diffusion on the contour lines of Ackley function. Right: Improved Langevin diffusion by Fang et al. (SPA 1997)
 </div>
 
+<!-- blank line -->
+<div id="wrapper" style="text-align:center;"> 
+    <video class="center" id="home1" width="320" height="240" controls="controls" allowfullscreen="true"> 
+        <source src="https://streamable.com/oxbzwp" type="video/mp4">
+    </video>
+    <video class="center" id="home2" width="320" height="240" controls="controls" allowfullscreen="true"> 
+        <source src="https://streamable.com/g443z1" type="video/mp4">
+    </video>
+    <div class="clear"></div> 
+</div>
+<!-- blank line -->
+<div align="center">
+Left: Classical SA on a randomly generated 50-node TSP. Right: Discrete ISA on the same 50-node TSP.
+</div>
+
 ### <i class="fas fa-chalkboard-teacher fa-lg"></i> Research interests:
 
  <i class="fas fa-book fa-sm"></i> **Markov chains, Markov processes: theory and applications** <br />
