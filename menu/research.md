@@ -35,10 +35,10 @@ Left: Langevin diffusion on the contour lines of Ackley function. Right: Improve
 <!-- blank line -->
 <div id="wrapper" style="text-align:center;"> 
     <video class="center" id="home1" width="320" height="240" controls="controls" allowfullscreen="true"> 
-        <source src="https://streamable.com/oxbzwp" type="video/mp4">
+        <source src="/menu/sa.mp4" type="video/mp4">
     </video>
     <video class="center" id="home2" width="320" height="240" controls="controls" allowfullscreen="true"> 
-        <source src="https://streamable.com/g443z1" type="video/mp4">
+        <source src="/menu/isa.mp4" type="video/mp4">
     </video>
     <div class="clear"></div> 
 </div>
