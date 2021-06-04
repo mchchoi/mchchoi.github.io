@@ -2,6 +2,6 @@
 layout: page
 title: Contact
 ---
-Address: Room 417A, Daoyuan Building, The Chinese University of Hong Kong, Shenzhen, 518172
+Address: T.B.A.
 
 Email: cc2373@cornell.edu.
