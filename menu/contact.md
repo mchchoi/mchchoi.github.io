@@ -2,6 +2,6 @@
 layout: page
 title: Contact
 ---
-Address: T.B.A.
+Address: RC2-M-05, 12 College Ave West, Singapore 138610
 
-Email: cc2373@cornell.edu.
+Email: michael.choi@yale-nus.edu.sg
