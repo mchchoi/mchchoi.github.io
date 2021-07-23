@@ -35,9 +35,8 @@ disqus:              #"your-disqus"
 
 # Build settings
 markdown:            kramdown
-remote_theme:        pages-themes/primer
+theme:               jekyll-theme-minimal
 highlighter:         rouge
 permalink:           none
 gems:                [jekyll-paginate]
 
-theme: jekyll-theme-minimal
