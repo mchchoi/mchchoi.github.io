@@ -35,7 +35,8 @@ disqus:              #"your-disqus"
 
 # Build settings
 markdown:            kramdown
-theme:               primer
+#theme:               primer
+remote_theme:        LeNPaul/Lagrange
 highlighter:         rouge
 permalink:           none
 gems:                [jekyll-paginate]
