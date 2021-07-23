@@ -39,3 +39,5 @@ remote_theme:        pages-themes/primer
 highlighter:         rouge
 permalink:           none
 gems:                [jekyll-paginate]
+
+theme: jekyll-theme-minimal
