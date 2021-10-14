@@ -19,7 +19,11 @@ Aryton Joaquin (Yale-NUS Capstone, 2021/22)
 
 Ruicong Wang (NUS Statistics, 2021/22)
 
-Kexin Zhao (CUHKSZ, Fall 2019 - Summer 2020)
+<p>
+  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/KexinZhao.png" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+</p>
+
+<p> Kexin Zhao (CUHKSZ, Fall 2019 - Summer 2020) </p>
 
 Xinyi Ye (CUHKSZ, Fall 2019 - Summer 2020)
 
