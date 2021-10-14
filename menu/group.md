@@ -5,21 +5,21 @@ title: Group
 
 Ph.D. students:
 
-Jing Zhang (CUHKSZ, 2019 - Present)
+<p align="center">Jing Zhang (CUHKSZ, 2019 - Present)</p>
 
 Undergraduate/master students:
 
-Ioana Todea (Yale-NUS Capstone, 2021/22)
+<p align="center">Ioana Todea (Yale-NUS Capstone, 2021/22)</p>
 
-Yilin Wang (Yale-NUS Capstone, 2021/22)
+<p align="center">Yilin Wang (Yale-NUS Capstone, 2021/22)</p>
 
-Kimberly Yeo (Yale-NUS Capstone, 2021/22)
+<p align="center">Kimberly Yeo (Yale-NUS Capstone, 2021/22)</p>
 
-Aryton Joaquin (Yale-NUS Capstone, 2021/22)
+<p align="center">Aryton Joaquin (Yale-NUS Capstone, 2021/22)</p>
 
-Ruicong Wang (NUS Statistics, 2021/22)
+<p align="center">Ruicong Wang (NUS Statistics, 2021/22)</p>
 
-Venkatkrishna Karumanchi (Yale-NUS, 2021/22)
+<p align="center">Venkatkrishna Karumanchi (Yale-NUS, 2021/22)</p>
 
 <p align="center">
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/KexinZhao.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
@@ -33,12 +33,12 @@ Venkatkrishna Karumanchi (Yale-NUS, 2021/22)
 
 <p align="center"> Xinyi Ye (CUHKSZ, Fall 2019 - Summer 2020) </p>
 
-<p>
+<p align="center">
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/XinyangLuo.png" alt="choi_chek_hin_2201_c57" width="200" height="200" />
 </p>
 
-<p> Xinyang Luo (CUHKSZ, Fall 2019 - Summer 2020) </p>
+<p align="center">Xinyang Luo (CUHKSZ, Fall 2019 - Summer 2020) </p>
 
-Zhipeng Huang (CUHKSZ, Summer 2018 - Spring 2019)
+<p align="center">Zhipeng Huang (CUHKSZ, Summer 2018 - Spring 2019)</p>
 
-Evelyn Li (Visiting undergraduate from Sun-Yat-Sen University, Summer 2018)
+<p align="center">Evelyn Li (Visiting undergraduate from Sun-Yat-Sen University, Summer 2018)</p>
