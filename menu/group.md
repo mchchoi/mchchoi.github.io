@@ -23,7 +23,7 @@ Kexin Zhao (CUHKSZ, Fall 2019 - Summer 2020)
 
 Xinyi Ye (CUHKSZ, Fall 2019 - Summer 2020)
 
-<img style="float: left; margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/XinyangLuo.png" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+<img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/XinyangLuo.png" alt="choi_chek_hin_2201_c57" width="200" height="200" />
 
 Xinyang Luo (CUHKSZ, Fall 2019 - Summer 2020)
 
