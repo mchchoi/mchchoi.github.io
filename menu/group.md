@@ -5,6 +5,10 @@ title: Group
 
 Ph.D. students:
 
+<p align="center">
+  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/JingZhang.jpeg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+</p>
+
 <p align="center">Jing Zhang (CUHKSZ, 2019 - Present)</p>
 
 Undergraduate/master students:
