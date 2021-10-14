@@ -9,7 +9,7 @@ Ph.D. students:
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/JingZhang.jpeg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
 </p>
 
-<p align="center">Jing Zhang (CUHKSZ, 2019 - Present)</p>
+<p align="center"><a href="https://jingzhang-323.github.io/">Jing Zhang</a> (CUHKSZ, 2019 - Present)</p>
 
 Undergraduate/master students:
 
