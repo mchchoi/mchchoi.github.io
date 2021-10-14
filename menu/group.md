@@ -47,6 +47,10 @@ Undergraduate/master students:
 
 <p align="center">Xinyang Luo (CUHKSZ, Fall 2019 - Summer 2020) </p>
 
+<p align="center">
+  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/ZhipengHuang.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+</p>
+
 <p align="center">Zhipeng Huang (CUHKSZ, Summer 2018 - Spring 2019)</p>
 
 <p align="center">Evelyn Li (Visiting undergraduate from Sun-Yat-Sen University, Summer 2018)</p>
