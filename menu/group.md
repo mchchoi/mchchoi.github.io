@@ -27,7 +27,11 @@ Venkatkrishna Karumanchi (Yale-NUS, 2021/22)
 
 <p align="center">Kexin Zhao (CUHKSZ, Fall 2019 - Summer 2020) </p>
 
-Xinyi Ye (CUHKSZ, Fall 2019 - Summer 2020)
+<p align="center">
+  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/XinyiYe.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+</p>
+
+<p align="center"> Xinyi Ye (CUHKSZ, Fall 2019 - Summer 2020) </p>
 
 <p>
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/XinyangLuo.png" alt="choi_chek_hin_2201_c57" width="200" height="200" />
