@@ -23,6 +23,8 @@ navigation:
   url: /teaching
 - title: Service
   url: /service
+- title: Group
+  url: /group
 #- title: Minicourse on Markov chain mixing time
 #  url: /mcmt
 #- title: Writing
