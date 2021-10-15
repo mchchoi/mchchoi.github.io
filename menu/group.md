@@ -20,7 +20,7 @@ Undergraduate/master students:
 <p align="center">Kimberly Yeo (Yale-NUS Capstone, 2021/22)</p>
 
 <p align="center">
-  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/Aryton.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/Ayrton.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
 </p>
 
 <p align="center"><a href="https://ajsanjoaquin.github.io/about/">Aryton San Joaquin</a> (Yale-NUS Capstone, 2021/22)</p>
