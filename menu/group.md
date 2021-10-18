@@ -33,6 +33,8 @@ Undergraduate/master students:
 
 <p align="center">Venkatkrishna Karumanchi (Yale-NUS, 2021/22)</p>
 
+<p align="center">Yilin Yu (CUHKSZ Master of Data Science Capstone, Fall 2020)</p>
+
 <p align="center">
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/KexinZhao.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
 </p>
