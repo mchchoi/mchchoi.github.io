@@ -17,21 +17,21 @@ Fall 2021 - YSC2239 Introduction to Data Science (2 sections)
 
 Fall 2020 - STA2002 Probability and Statistics II
 
-          <> - Teaching evaluation: Clear Presentation 5.98/6.0, Enthusiastic 5.96/6.0, Responses = 155
+<!--- - Teaching evaluation: Clear Presentation 5.98/6.0, Enthusiastic 5.96/6.0, Responses = 155 --->
 
 Fall 2019 - DDA6030 Advanced Statistics Theory
 
-          <> - Teaching evaluation: Clear Presentation 5.43/6.0, Enthusiastic 5.79/6.0, Responses = 16
+ <!--- - Teaching evaluation: Clear Presentation 5.43/6.0, Enthusiastic 5.79/6.0, Responses = 16 --->
 
 Fall 2019 - STA2002/DDA2002 Probability and Statistics II
 
-                     <> - Teaching evaluation: Clear Presentation 5.84/6.0, Enthusiastic 5.92/6.0, Responses = 135
+<!--- - Teaching evaluation: Clear Presentation 5.84/6.0, Enthusiastic 5.92/6.0, Responses = 135 --->
 
 Summer 2019 - [Minicourse on Markov chain mixing time](mcmt)
 
 Spring 2019 - STA2001/DDA2001 Probability and Statistics I 
 
-                      <> - Teaching evaluation: Clear Presentation 5.88/6.0, Enthusiastic 5.90/6.0, Responses = 89
+<!--- - Teaching evaluation: Clear Presentation 5.88/6.0, Enthusiastic 5.90/6.0, Responses = 89 --->
 
 ## Teaching Assistant@Cornell: 
 
