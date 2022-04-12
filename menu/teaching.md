@@ -7,7 +7,9 @@ title: Teaching
 
 ## Instructor@Yale-NUS:
 
-<img src="https://raw.githubusercontent.com/mchchoi/mchchoi.github.io/master/menu/YSC3249_class_photo.jpg" width="250" height="250">
+<p align="center">
+<img src="https://raw.githubusercontent.com/mchchoi/mchchoi.github.io/master/menu/YSC3249_class_photo.jpg" width="400" height="400">
+</p>
 
 Spring 2022 - YSC3249 Statistical Inference
 
