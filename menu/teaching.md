@@ -7,7 +7,7 @@ title: Teaching
 
 ## Instructor@Yale-NUS:
 
-![YSC3249](https://raw.githubusercontent.com/mchchoi/mchchoi.github.io/master/menu/YSC3249_class_photo.jpg =250x250)
+<img src="https://raw.githubusercontent.com/mchchoi/mchchoi.github.io/master/menu/YSC3249_class_photo.jpg" width="250" height="250">
 
 Spring 2022 - YSC3249 Statistical Inference
 
