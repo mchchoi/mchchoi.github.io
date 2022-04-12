@@ -7,8 +7,6 @@ title: Teaching
 
 ## Instructor@Yale-NUS:
 
-![Class](YSC3249_class_photo.jpg)
-
 Spring 2022 - YSC3249 Statistical Inference
 
 Spring 2022 - YSC2239 Introduction to Data Science
