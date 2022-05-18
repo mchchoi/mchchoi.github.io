@@ -23,7 +23,6 @@ Undergraduate/master students:
 
 <p align="center">Yilin Wang (Yale-NUS Capstone, 2021/22)</p>
 
-dl=0">Quantitative Risk Management in Crytocurrency</a></p>
 <p align="center">Thesis: <a href="https://www.dropbox.com/s/rim2ppc4slqi600/Capstone%20Final%20Report.pdf?dl=0">Option Pricing with Stochastic Discretization Schemes</a></p>
 
 <p align="center">Kimberly Yeo (Yale-NUS Capstone, 2021/22)</p>
