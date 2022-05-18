@@ -19,15 +19,24 @@ Undergraduate/master students:
 
 <p align="center">Ioana Todea (Yale-NUS Capstone, 2021/22)</p>
 
+<p align="center">Thesis: <a href="https://www.dropbox.com/s/udixjl16m2pcrur/Ioana_Todea_capstone.pdf?dl=0">Landscape modification in machine learning optimization</a> (MCS best capstone prize honorable mention (top 2))</p>
+
 <p align="center">Yilin Wang (Yale-NUS Capstone, 2021/22)</p>
 
+dl=0">Quantitative Risk Management in Crytocurrency</a></p>
+<p align="center">Thesis: <a href="https://www.dropbox.com/s/rim2ppc4slqi600/Capstone%20Final%20Report.pdf?dl=0">Option Pricing with Stochastic Discretization Schemes</a></p>
+
 <p align="center">Kimberly Yeo (Yale-NUS Capstone, 2021/22)</p>
+
+<p align="center">Thesis: <a href="https://www.dropbox.com/s/4eujk3gb5mni68y/YSS4103%20-%20MCS%20Capstone%20Thesis%20%28Kimberly%20Yeo%29.pdf?dl=0">Quantitative Risk Management in Crytocurrency</a></p>
 
 <p align="center">
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/Ayrton.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
 </p>
 
-<p align="center"><a href="https://ajsanjoaquin.github.io/about/">Aryton San Joaquin</a> (Yale-NUS Capstone, 2021/22)</p>
+<p align="center"><a href="https://ajsanjoaquin.github.io/about/">Aryton San Joaquin</a> (Yale-NUS Capstone, co-advised with Reza Shokri 2021/22)</p>
+
+<p align="center">Thesis: <a href="https://www.dropbox.com/s/wk9ibc0ev60l08w/MCS%20-%20Ayrton%20Justin%20Bulaong%20San%20Joaquin.pdf?dl=0">In Veneno Veritas: Membership Inference Attacks with Data Poisoning</a></p>
 
 <p align="center">
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/RuicongWang.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
