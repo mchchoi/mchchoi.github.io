@@ -5,13 +5,7 @@ title: Group
 
 Ph.D. students:
 
-<p align="center">
-  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/JingZhang.jpeg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
-</p>
-
-<p align="center"><a href="https://jingzhang-323.github.io/">Jing Zhang</a> (CUHKSZ, 2019 - Present)</p>
-
-Undergraduate/master students:
+Undergraduate/master/MPhil students:
 
 <p align="center">
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/IoanaTodea.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
@@ -76,6 +70,12 @@ Undergraduate/master students:
 </p>
 
 <p align="center">Xinyang Luo (CUHKSZ, Fall 2019 - Summer 2020) </p>
+
+<p align="center">
+  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/JingZhang.jpeg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+</p>
+
+<p align="center"><a href="https://jingzhang-323.github.io/">Jing Zhang</a> (CUHKSZ, 2019 - Present)</p>
 
 <p align="center">
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/ZhipengHuang.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
