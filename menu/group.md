@@ -15,9 +15,17 @@ Undergraduate/master/MPhil students:
 
 <p align="center">Stefan-Cristian Roata (Yale-NUS Capstone, 2022/23)</p>
 
+<p align="center">
+  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/Stefan_photo.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+</p>
+
 <p align="center">Zach Tan (Yale-NUS IRR, 2022/23 Semester 1)</p>
 
 <p align="center">Tristan Koh (Yale-NUS Capstone, co-advise with NUS Law Simon Chesterman, 2022/23)</p>
+
+<p align="center">
+  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/Tristan Koh.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+</p>
 
 <p align="center">Valeria Santana (Yale-NUS Capstone, 2022/23)</p>
 
