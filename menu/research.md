@@ -70,6 +70,8 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
+Michael C.H. Choi. [Landscape modification meets spin systems: from torpid to rapid mixing, tunneling and annealing in the low-temperature regime](https://arxiv.org/abs/2208.10054). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2208.10054)\]
+
 Michael C.H. Choi and Jing Zhang. [Improved annealing for sampling from multimodal distributions via landscape modification](https://arxiv.org/abs/2111.02675). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2111.02675)\]
 
 Michael C.H. Choi. [On the convergence of an improved discrete simulated annealing via landscape modification](http://arxiv.org/abs/2011.09680). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](http://arxiv.org/abs/2011.09680)\]
