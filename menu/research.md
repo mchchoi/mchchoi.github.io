@@ -62,6 +62,8 @@ Left: Classical SA on a randomly generated 50-node TSP. Right: Discrete ISA on t
 Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on the same 500-node TSP.
 </div>
 
+<p style="text-align:center;"><img src="/menu/modified_landscape.png" alt="Logo"></p>
+
 ### <i class="fas fa-chalkboard-teacher fa-lg"></i> Research interests:
 
  <i class="fas fa-book fa-sm"></i> **Markov chains, Markov processes: theory and applications** <br />
