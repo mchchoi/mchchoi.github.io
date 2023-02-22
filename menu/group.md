@@ -5,6 +5,12 @@ title: Group
 
 Ph.D. students:
 
+<p align="center">Youjia Wang (NUS DSDS)</p>
+
+<p align="center">
+  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/Youjia Wang.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+</p>
+
 Undergraduate/master/MPhil students:
 
 <p align="center">Adam Tan (NUS FYP, 2022/23)</p>
