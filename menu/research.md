@@ -64,6 +64,21 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 <p style="text-align:center;"><img src="/menu/modified_landscape.png" alt="Logo"></p>
 
+<div style="display:flex;">
+      <div style="flex:1;">
+        <img src="/menu/SGLD.gif" alt="First GIF" style="width:100%;">
+        <div style="text-align:center;">
+          <p>Stochastic Gradient Langevin Dynamics (SGLD) on Walker2d: falls over, inches itself forward </p>
+        </div>
+      </div>
+      <div style="flex:1;">
+        <img src="/menu/SGLMLD.gif" alt="Second GIF" style="width:100%;">
+        <div style="text-align:center;">
+          <p>Stochastic Gradient Landscape Modified Langevin Dynamics (SGLMLD) on Walker2d: keeps stepping forward </p>
+        </div>
+      </div>
+    </div>
+
 ### <i class="fas fa-chalkboard-teacher fa-lg"></i> Research interests:
 
  <i class="fas fa-book fa-sm"></i> **Markov chains, Markov processes: theory and applications** <br />
