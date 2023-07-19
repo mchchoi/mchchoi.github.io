@@ -96,8 +96,6 @@ Michael C.H. Choi. [Landscape modification meets spin systems: from torpid to ra
 
 Michael C.H. Choi and Jing Zhang. [Improved annealing for sampling from multimodal distributions via landscape modification](https://arxiv.org/abs/2111.02675). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2111.02675)\]
 
-Michael C.H. Choi. [On the convergence of an improved discrete simulated annealing via landscape modification](http://arxiv.org/abs/2011.09680). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](http://arxiv.org/abs/2011.09680)\]
-
 Michael C.H. Choi. [On the convergence of an improved and adaptive kinetic simulated annealing](https://arxiv.org/abs/2009.00195v2). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2009.00195v2)\]  \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Warwick.pdf)\] \[[<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/watch?v=nC0dyeXZWAo)\]
 
 Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1907.10318)\]
@@ -107,6 +105,8 @@ Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
+
+Michael C.H. Choi. [On the convergence of an improved discrete simulated annealing via landscape modification](http://arxiv.org/abs/2011.09680). **Adv. in Appl. Probab.**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](http://arxiv.org/abs/2011.09680)\] 
 
 Michael C.H. Choi, Venkatkrishna Karumanchi. [Landscape modification meets surrogate optimization: towards developing an improved stochastic response surface method](https://www.researchgate.net/publication/364318447_Landscape_modification_meets_surrogate_optimization_towards_developing_an_improved_stochastic_response_surface_method). **Proceedings of Winter Simulation Conference 2022**. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/364318447_Landscape_modification_meets_surrogate_optimization_towards_developing_an_improved_stochastic_response_surface_method)\]
 
