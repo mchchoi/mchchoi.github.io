@@ -83,7 +83,7 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
  <i class="fas fa-book fa-sm"></i> **Markov chains, Markov processes: theory and applications** <br />
  <i class="fas fa-book fa-sm"></i> **Stochastic algorithms: Markov chain Monte Carlo, Metropolis-Hastings, simulated annealing, Langevin dynamics, Hamiltonian Monte Carlo** <br />
- <i class="fas fa-book fa-sm"></i> **Statistical physics, applied probability, theoretical computer science, stochastic optimization, information theory** <br />
+ <i class="fas fa-book fa-sm"></i> **Statistical physics, applied probability, theoretical computer science, stochastic optimization, Bayesian statistics, information theory** <br />
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
@@ -106,7 +106,7 @@ Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a
 
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
 
-Michael C.H. Choi. [On the convergence of an improved discrete simulated annealing via landscape modification](http://arxiv.org/abs/2011.09680). **Adv. in Appl. Probab.**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](http://arxiv.org/abs/2011.09680)\] 
+Michael C.H. Choi. [Improved Metropolis-Hastings algorithms via landscape modifcation with applications to simulated annealing and the Curie-Weiss model](http://arxiv.org/abs/2011.09680). **Adv. in Appl. Probab.**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](http://arxiv.org/abs/2011.09680)\] 
 
 Michael C.H. Choi, Venkatkrishna Karumanchi. [Landscape modification meets surrogate optimization: towards developing an improved stochastic response surface method](https://www.researchgate.net/publication/364318447_Landscape_modification_meets_surrogate_optimization_towards_developing_an_improved_stochastic_response_surface_method). **Proceedings of Winter Simulation Conference 2022**. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/364318447_Landscape_modification_meets_surrogate_optimization_towards_developing_an_improved_stochastic_response_surface_method)\]
 
