@@ -104,7 +104,7 @@ Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
 
 Michael C.H. Choi and Geoffrey Wolfer. [Systematic approaches to generate
-reversiblizations of non-reversible Markov chains] (https://arxiv.org/abs/2302.03973). **IEEE Trans. Inform. Theory**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2303.03650)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Talk.pdf)\]
+reversiblizations of Markov chains] (https://arxiv.org/abs/2302.03973). **IEEE Trans. Inform. Theory**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2303.03650)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Talk.pdf)\]
 
 Michael C.H. Choi. [Improved Metropolis-Hastings algorithms via landscape modifcation with applications to simulated annealing and the Curie-Weiss model](http://arxiv.org/abs/2011.09680). **Adv. in Appl. Probab.**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](http://arxiv.org/abs/2011.09680)\] 
 
