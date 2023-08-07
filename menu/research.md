@@ -87,9 +87,6 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
-Michael C.H. Choi and Geoffrey Wolfer. [Systematic approaches to generate
-reversiblizations of non-reversible Markov chains] (https://arxiv.org/abs/2302.03973). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2303.03650)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Talk.pdf)\]
-
 Michael C.H. Choi and Youjia Wang. [Improved Langevin Monte Carlo for stochastic optimization via landscape modification] (https://arxiv.org/abs/2302.03973). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2302.03973)\]
 
 Michael C.H. Choi. [Landscape modification meets spin systems: from torpid to rapid mixing, tunneling and annealing in the low-temperature regime](https://arxiv.org/abs/2208.10054). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2208.10054)\]
@@ -105,6 +102,9 @@ Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
+
+Michael C.H. Choi and Geoffrey Wolfer. [Systematic approaches to generate
+reversiblizations of non-reversible Markov chains] (https://arxiv.org/abs/2302.03973). **IEEE Trans. Inform. Theory**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2303.03650)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Talk.pdf)\]
 
 Michael C.H. Choi. [Improved Metropolis-Hastings algorithms via landscape modifcation with applications to simulated annealing and the Curie-Weiss model](http://arxiv.org/abs/2011.09680). **Adv. in Appl. Probab.**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](http://arxiv.org/abs/2011.09680)\] 
 
