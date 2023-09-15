@@ -82,7 +82,7 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 <!-- blank line -->
 <div align="center">
 <figure class="video_container">
-     <iframe src="https://streamable.com/6m20o8" width="640" height="320" frameborder="0" allowfullscreen></iframe>
+     <iframe src="https://streamable.com/e/6m20o8" width="560" height="840" frameborder="0" allowfullscreen></iframe>
 </figure>
 </div>
 <div align="center">
