@@ -79,16 +79,6 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
       </div>
     </div>
 
-<!-- blank line -->
-<div align="center">
-<figure class="video_container">
-     <iframe src="https://streamable.com/e/6m20o8" width="560" height="840" frameborder="0" allowfullscreen></iframe>
-</figure>
-</div>
-<div align="center">
-Simulated annealing without and with landscape modification.
-</div>
-<!-- blank line -->
 
 ### <i class="fas fa-chalkboard-teacher fa-lg"></i> Research interests:
 
