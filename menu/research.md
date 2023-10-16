@@ -88,6 +88,8 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
+Michael C.H. Choi and Geoffrey Wolfer. [Markov chain entropy games and the geometry of their Nash equilibria](https://arxiv.org/abs/2310.04115). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2310.04115)\]
+
 Michael C.H. Choi and Youjia Wang. [Improved Langevin Monte Carlo for stochastic optimization via landscape modification] (https://arxiv.org/abs/2302.03973). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2302.03973)\]
 
 Michael C.H. Choi. [Landscape modification meets spin systems: from torpid to rapid mixing, tunneling and annealing in the low-temperature regime](https://arxiv.org/abs/2208.10054). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2208.10054)\]
