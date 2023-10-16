@@ -18,14 +18,14 @@ Ph.D. students:
 Undergraduate/master/MPhil students:
 
 <p align="center">Nicole Lai (Yale-NUS Capstone, 2023/24)</p>
-<p align="center">Topic: Statistical Physics</a></p>
+<p align="center">Topic: Statistical Physics</p>
 
 <p align="center">Andrew Jie (Yale-NUS Capstone, 2023/24)</p>
-<p align="center">Topic: Stochastic optimization</a></p>
+<p align="center">Topic: Stochastic optimization</p>
 
 <p align="center">Anzelle Lee (NUS FYP, 2023/24)</p>
 
-<p align="center">Topic: Information geometry</a></p>
+<p align="center">Topic: Information geometry</p>
 
 <p align="center">Adam Tan (NUS FYP, 2022/23)</p>
 
