@@ -7,13 +7,13 @@ title: Teaching
 
 ## Instructor@NUS:
 
+Spring 2024 - ST2132 Mathematical Statistics
+
 Spring 2023 - ST2132 Mathematical Statistics
 
 ## Instructor@Yale-NUS:
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mchchoi/mchchoi.github.io/master/menu/YSC3249_class_photo.jpg" width="400" height="400">
-</p>
+Spring 2024 - YSC3249 Statistical Inference
 
 Spring 2023 - YSC3249 Statistical Inference
 
