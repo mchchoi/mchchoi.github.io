@@ -15,7 +15,7 @@ Ph.D. students:
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/Youjia Wang.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
 </p>
 
-Undergraduate/master/MPhil students:
+Undergraduate/RA/IRR/FYP/Capstone/master/MPhil students:
 
 <ul>
         <li>
