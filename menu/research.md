@@ -78,6 +78,24 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
         </div>
       </div>
     </div>
+    
+<div style="display:flex; justify-content:center;">
+    <div style="flex:1; max-width:50%;"> <!-- Adjust max-width as needed -->
+      <img src="/menu/Ising.gif" alt="Ising" style="width:100%;">
+      <div style="text-align:center;">
+        <p>Comparing 4 landscape-modified Metropolis-Hastings of an Ising model on a 50x50 box</p>
+      </div>
+    </div>
+</div>
+
+<div style="display:flex; justify-content:center;">
+    <div style="flex:1; max-width:50%;"> <!-- Adjust max-width as needed -->
+      <img src="/menu/Potts.gif" alt="Potts" style="width:100%;">
+      <div style="text-align:center;">
+        <p>Comparing 4 landscape-modified Metropolis-Hastings of a 3-state Potts model on a 50x50 box</p>
+      </div>
+    </div>
+</div>
 
 
 ### <i class="fas fa-chalkboard-teacher fa-lg"></i> Research interests:
