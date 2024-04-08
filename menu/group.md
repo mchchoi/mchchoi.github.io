@@ -25,7 +25,7 @@ Undergraduate/RA/IRR/FYP/Capstone/master/MPhil students:
             </ul>
         </li>
         <li>
-            <p><strong>Andrew Jie</strong> (Yale-NUS Capstone, 2023/24)</p>
+            <p><strong>Andrew Siow</strong> (Yale-NUS Capstone, 2023/24)</p>
             <ul>
                 <li><strong>Topic:</strong> Stochastic optimization</li>
             </ul>
