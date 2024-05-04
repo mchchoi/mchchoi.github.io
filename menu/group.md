@@ -39,13 +39,13 @@ Undergraduate/RA/IRR/FYP/Capstone/master/MPhil students:
         <li>
             <p><strong>Anzelle Lee</strong> (NUS FYP, 2023/24)</p>
             <ul>
-                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/gimst4xon9a6geb8jy8eb/DSA4199_Lee-Chang-Wei-Anzelle-2.pdf?rlkey=8zxs6und3fyxq9t6pps45fmmn&dl=0">Escaping Local Maxima in Reinforcement Learning through Landscape Modified Langevin Dynamics</a></li>
+                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/gimst4xon9a6geb8jy8eb/DSA4199_Lee-Chang-Wei-Anzelle-2.pdf?rlkey=8zxs6und3fyxq9t6pps45fmmn&dl=0">Investigating the Effects of Natural Gradient and Landscape Modification on Overcoming Local Minima in Deep Learning</a></li>
             </ul>
         </li>
         <li>
             <p><strong>Adam Tan</strong> (NUS FYP, 2022/23)</p>
             <ul>
-                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/a5pkvi5eyaecvu994u6h0/annotated-Tan20Adam-3.pdf?rlkey=fd4zlhi7o9vh76t5irp1euahs&dl=0">Investigating the Effects of Natural Gradient and Landscape Modification on Overcoming Local Minima in Deep Learning</a></li>
+                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/a5pkvi5eyaecvu994u6h0/annotated-Tan20Adam-3.pdf?rlkey=fd4zlhi7o9vh76t5irp1euahs&dl=0">Escaping Local Maxima in Reinforcement Learning through Landscape Modified Langevin Dynamics</a></li>
             </ul>
         </li>
         <li>
