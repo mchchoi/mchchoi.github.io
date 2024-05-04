@@ -19,27 +19,33 @@ Undergraduate/RA/IRR/FYP/Capstone/master/MPhil students:
 
 <ul>
         <li>
+            <p><strong>Taiga Yamamoto</strong> (NUS FYP, 2023/24)</p>
+            <ul>
+                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/a5pkvi5eyaecvu994u6h0/annotated-Tan20Adam-3.pdf?rlkey=fd4zlhi7o9vh76t5irp1euahs&dl=0">Escaping Local Maxima in Reinforcement Learning through Landscape Modified Langevin Dynamics</a></li>
+            </ul>
+        </li>
+        <li>
             <p><strong>Nicole Lai</strong> (Yale-NUS Capstone, 2023/24)</p>
             <ul>
-                <li><strong>Topic:</strong> Statistical Physics</li>
+                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/3kjes31cskkow9jc4bav2/nicole_final_capstone_report_11_.pdf?rlkey=kk8or95c6m08k5zlriwi29vp5&dl=0">Improved Sampling Algorithms for Statistical Physics</a></li>
             </ul>
         </li>
         <li>
             <p><strong>Andrew Siow</strong> (Yale-NUS Capstone, 2023/24)</p>
             <ul>
-                <li><strong>Topic:</strong> Stochastic optimization</li>
+                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/jmqm27f3kxgccz9ux4hj3/Andrew_Siow_Capstone_Improved_Adaptive_Optimization_Language_Modeling.pdf?rlkey=ptdlpxr9afqceruh7m3appr6v&dl=0">Improved Adaptive Optimization for Language Modeling</a></li>
             </ul>
         </li>
         <li>
             <p><strong>Anzelle Lee</strong> (NUS FYP, 2023/24)</p>
             <ul>
-                <li><strong>Topic:</strong> Information geometry</li>
+                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/gimst4xon9a6geb8jy8eb/DSA4199_Lee-Chang-Wei-Anzelle-2.pdf?rlkey=8zxs6und3fyxq9t6pps45fmmn&dl=0">Escaping Local Maxima in Reinforcement Learning through Landscape Modified Langevin Dynamics</a></li>
             </ul>
         </li>
         <li>
             <p><strong>Adam Tan</strong> (NUS FYP, 2022/23)</p>
             <ul>
-                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/a5pkvi5eyaecvu994u6h0/annotated-Tan20Adam-3.pdf?rlkey=fd4zlhi7o9vh76t5irp1euahs&dl=0">Escaping Local Maxima in Reinforcement Learning through Landscape Modified Langevin Dynamics</a></li>
+                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/a5pkvi5eyaecvu994u6h0/annotated-Tan20Adam-3.pdf?rlkey=fd4zlhi7o9vh76t5irp1euahs&dl=0">Investigating the Effects of Natural Gradient and Landscape Modification on Overcoming Local Minima in Deep Learning</a></li>
             </ul>
         </li>
         <li>
