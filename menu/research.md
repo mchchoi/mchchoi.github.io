@@ -106,6 +106,8 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
+Michael C.H. Choi, Youjia Wang and Geoffrey Wolfer. [A rate-distortion framework for MCMC algorithms: geometry and factorization of multivariate Markov chains](https://arxiv.org/abs/2404.12589). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2404.12589)\]
+
 Michael C.H. Choi and Geoffrey Wolfer. [Markov chain entropy games and the geometry of their Nash equilibria](https://arxiv.org/abs/2310.04115). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2310.04115)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](https://t.co/fty15wv9cD)\]
 
 Michael C.H. Choi and Youjia Wang. [Improved Langevin Monte Carlo for stochastic optimization via landscape modification] (https://arxiv.org/abs/2302.03973). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2302.03973)\]
@@ -125,7 +127,7 @@ Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
 
 Michael C.H. Choi and Geoffrey Wolfer. [Systematic approaches to generate
-reversiblizations of Markov chains] (https://arxiv.org/abs/2302.03973). **IEEE Trans. Inform. Theory** (2024), Volume 70, Issue 5, pp. 3145-3161. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2303.03650)\] \[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1109/TIT.2023.3304685)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Talk.pdf)\]
+reversiblizations of Markov chains](https://arxiv.org/abs/2302.03973). **IEEE Trans. Inform. Theory** (2024), Volume 70, Issue 5, pp. 3145-3161. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2303.03650)\] \[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1109/TIT.2023.3304685)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Talk.pdf)\]
 
 Michael C.H. Choi. [Improved Metropolis-Hastings algorithms via landscape modifcation with applications to simulated annealing and the Curie-Weiss model](http://arxiv.org/abs/2011.09680). **Adv. in Appl. Probab.** (2024), Volume 56, Issue 2, pp. 587-620. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](http://arxiv.org/abs/2011.09680)\] \[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1017/apr.2023.35)\]
 
