@@ -21,7 +21,7 @@ Undergraduate/RA/IRR/FYP/Capstone/master/MPhil students:
         <li>
             <p><strong>Taiga Yamamoto</strong> (NUS FYP, 2023/24)</p>
             <ul>
-                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/a5pkvi5eyaecvu994u6h0/annotated-Tan20Adam-3.pdf?rlkey=fd4zlhi7o9vh76t5irp1euahs&dl=0">Escaping Local Maxima in Reinforcement Learning through Landscape Modified Langevin Dynamics</a></li>
+                <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/g1064nadgm1rgpibgai03/ST4288_Honours_Thesis_Taiga_Yamamoto.pdf?rlkey=e8zm1r87gtxbuelnl0w4i8b41&dl=0">Optimizing Generative Adversarial Networks: The Impact of Landscape Modification on GAN Performance</a></li>
             </ul>
         </li>
         <li>
