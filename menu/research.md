@@ -106,6 +106,8 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
+Youjia Wang and Michael C.H. Choi. [Information-theoretic classification of the cutoff phenomenon in Markov processes](https://arxiv.org/abs/2407.06982). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2407.06982)\]
+
 Michael C.H. Choi, Youjia Wang and Geoffrey Wolfer. [A rate-distortion framework for MCMC algorithms: geometry and factorization of multivariate Markov chains](https://arxiv.org/abs/2404.12589). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2404.12589)\]
 
 Michael C.H. Choi and Geoffrey Wolfer. [Markov chain entropy games and the geometry of their Nash equilibria](https://arxiv.org/abs/2310.04115). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2310.04115)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](https://t.co/fty15wv9cD)\]
