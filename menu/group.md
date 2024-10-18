@@ -19,6 +19,12 @@ Undergraduate/RA/IRR/FYP/Capstone/master/MPhil students:
 
 <ul>
         <li>
+            <p><strong><a href="https://mathewsboban242.github.io/">Mathews Boban</a></strong> (NUS RA, 2024 Summer)</p>
+            <ul>
+                <li><strong>Sum-of-squares methods in Markov chains</strong></li>
+            </ul>
+        </li>
+        <li>
             <p><strong>Taiga Yamamoto</strong> (NUS FYP, 2023/24)</p>
             <ul>
                 <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/g1064nadgm1rgpibgai03/ST4288_Honours_Thesis_Taiga_Yamamoto.pdf?rlkey=e8zm1r87gtxbuelnl0w4i8b41&dl=0">Optimizing Generative Adversarial Networks: The Impact of Landscape Modification on GAN Performance</a></li>
