@@ -19,9 +19,21 @@ Undergraduate/RA/IRR/FYP/Capstone/master/MPhil students:
 
 <ul>
         <li>
+            <p><strong>Zheyuan Lai</strong> (NUS UROPS, 2024/25 Semester 2)</p>
+            <ul>
+                <li>Submodular optimization of Markov chains and information theory</li>
+            </ul>
+        </li>
+        <li>
+            <p><strong>Mulan Qin</strong> (NUS UROPS, 2024/25 Semester 2)</p>
+            <ul>
+                <li>Mean-field Langevin</li>
+            </ul>
+        </li>
+        <li>
             <p><strong><a href="https://mathewsboban242.github.io/">Mathews Boban</a></strong> (NUS RA, 2024 Summer)</p>
             <ul>
-                <li><strong>Sum-of-squares methods in Markov chains</strong></li>
+                <li>Sum-of-squares methods in Markov chains</li>
             </ul>
         </li>
         <li>
