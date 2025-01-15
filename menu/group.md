@@ -19,9 +19,9 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
 
 <ul>
         <li>
-            <p><strong>Zheyuan Lai</strong> (NUS UROPS, 2024/25 Semester 2)</p>
+            <p><strong><a href="https://zheyuanlai.github.io/">Ryan Zheyuan Lai</a></strong> (NUS UROPS, 2024/25 Semester 2)</p>
             <ul>
-                <li>Submodular optimization of Markov chains and information theory</li>
+                <li>Submodular optimization of multivariate Markov chains and information theory</li>
             </ul>
         </li>
         <li>
