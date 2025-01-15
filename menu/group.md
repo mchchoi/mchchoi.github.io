@@ -55,7 +55,7 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
             </ul>
         </li>
         <li>
-            <p><strong>Anzelle Lee</strong> (NUS FYP, 2023/24)</p>
+            <p><strong><a href="https://anzellel23.github.io/">Anzelle Lee</a></strong> (NUS FYP, 2023/24)</p>
             <ul>
                 <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/gimst4xon9a6geb8jy8eb/DSA4199_Lee-Chang-Wei-Anzelle-2.pdf?rlkey=8zxs6und3fyxq9t6pps45fmmn&dl=0">Investigating the Effects of Natural Gradient and Landscape Modification on Overcoming Local Minima in Deep Learning</a></li>
             </ul>
