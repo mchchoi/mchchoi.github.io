@@ -5,11 +5,11 @@ title: Group
 
 Postdoc:
 
-<p align="center">Vitali Kapitan (NUS DSDS)</p>
+<p align="center">Vitali Kapitan (NUS DSDS), supported by a Tier 1 DSSD grant with Wenqian Chen (NUS Pharmacy)</p>
 
 Ph.D. students:
 
-<p align="center">Youjia Wang (NUS DSDS), NUS PGF</p>
+<p align="center">Youjia Wang (NUS DSDS), supported by NUS PGF</p>
 
 <p align="center">
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/Youjia Wang.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
