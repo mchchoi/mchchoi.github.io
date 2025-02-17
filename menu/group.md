@@ -118,7 +118,7 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
             <p><strong>Ruicong Wang</strong> (NUS Statistics, 2021/22)</p>
         </li>
         <li>
-            <p><strong>Venkatkrishna Karumanchi</strong> (Yale-NUS, 2021/22 undergraduate research + 2022/23 Capstone)</p>
+            <p><strong><a href="https://www.orie.cornell.edu/research/grad-students/venkatkrishna-karumanchi">Venkatkrishna Karumanchi</a></strong> (Yale-NUS, 2021/22 undergraduate research + 2022/23 Capstone)</p>
             <ul>
                 <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/sq5ebs6u7wjspzlv14rjb/ync_latex_capstone_master_updated-7.pdf?rlkey=41ch2j2fz7rksrc1tp0gjen9f&dl=0">Iterated Energy Transformation Variants: Towards a Novel Stochastic Optimization Algorithm</a></li>
             </ul>
