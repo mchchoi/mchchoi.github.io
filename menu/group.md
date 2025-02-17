@@ -49,7 +49,7 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
             </ul>
         </li>
         <li>
-            <p><strong>Andrew Siow</strong> (Yale-NUS Capstone, 2023/24)</p>
+            <p><strong><a href="https://andrewsiow.com/">Andrew Siow</a></strong> (Yale-NUS Capstone, 2023/24)</p>
             <ul>
                 <li><strong>Thesis:</strong> <a href="https://www.dropbox.com/scl/fi/jmqm27f3kxgccz9ux4hj3/Andrew_Siow_Capstone_Improved_Adaptive_Optimization_Language_Modeling.pdf?rlkey=ptdlpxr9afqceruh7m3appr6v&dl=0">Improved Adaptive Optimization for Language Modeling</a></li>
             </ul>
