@@ -145,7 +145,7 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
             <p><strong><a href="https://jingzhang-323.github.io/">Jing Zhang</a></strong> (CUHKSZ, 2019 - 2022)</p>
         </li>
         <li>
-            <p><strong>Zhipeng Huang</strong> (CUHKSZ, Summer 2018 - Spring 2019)</p>
+            <p><strong><a href="https://zhipeng-huang.github.io/">Zhipeng Huang</a></strong> (CUHKSZ, Summer 2018 - Spring 2019)</p>
         </li>
         <li>
             <p><strong>Evelyn Li</strong> (Visiting undergraduate from Sun-Yat-Sen University, Summer 2018)</p>
