@@ -3,16 +3,14 @@ layout: page
 title: Group
 ---
 
-Postdoc:
-
-<p align="center">Vitali Kapitan (NUS DSDS), supported by a Tier 1 DSSD grant with Wenqian Chen (NUS Pharmacy)</p>
-
 Ph.D. students:
 
 <p align="center">Youjia Wang (NUS DSDS), supported by NUS PGF</p>
 
 <p align="center">
   <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/Youjia Wang.jpg" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+
+<p align="center">Yao Liu (visiting PhD student from Fujian Normal, advised by Jian Wang) </p>  
 </p>
 
 Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
@@ -151,3 +149,7 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
             <p><strong>Evelyn Li</strong> (Visiting undergraduate from Sun-Yat-Sen University, Summer 2018)</p>
         </li>
 </ul>
+
+Postdoc:
+
+<p align="center">Vitali Kapitan (NUS DSDS), supported by a Tier 1 DSSD grant with Wenqian Chen (NUS Pharmacy)</p>
