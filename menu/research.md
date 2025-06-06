@@ -121,9 +121,7 @@ Michael C.H. Choi and Jing Zhang. [Improved annealing for sampling from multimod
 
 Michael C.H. Choi. [On the convergence of an improved and adaptive kinetic simulated annealing](https://arxiv.org/abs/2009.00195v2). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2009.00195v2)\]  \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Warwick.pdf)\] \[[<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/watch?v=nC0dyeXZWAo)\]
 
-Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1907.10318)\]
-
-
+<!--- Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a family of Metropolis-Hastings processes I: fixed dimension](https://arxiv.org/abs/1907.10318). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/1907.10318)\] -->
 
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
@@ -131,7 +129,7 @@ Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a
 
 Vitalii Kapitan and Michael C.H. Choi. Adaptive Gradient Scaling: Integrating Adam and Landscape Modification for Protein Structure Prediction. **BMC Bioinformatics**, to appear. 
 
-Michael C.H. Choi, Max Hird and Youjia Wang. [Improving the convergence of Markov chains via permutations and projections](https://arxiv.org/abs/2411.08295). **Random Structures and Algorithms** (tentatively accepted). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv]([https://arxiv.org/abs/2404.12589](https://arxiv.org/abs/2411.08295))\]
+Michael C.H. Choi, Max Hird and Youjia Wang. [Improving the convergence of Markov chains via permutations and projections](https://arxiv.org/abs/2411.08295). **Random Structures and Algorithms** (tentatively accepted). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv]([https://arxiv.org/abs/2404.12589](https://arxiv.org/abs/2411.08295))\] \[[<i class="fab fa-youtube"></i> Youtube](https://youtu.be/Jnwp26L4nIc?si=ATeFw8N1uvhFz9bb)\]  \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/permutation-main.pdf)\]
 
 Michael C.H. Choi and Geoffrey Wolfer. [Systematic approaches to generate
 reversiblizations of Markov chains](https://arxiv.org/abs/2302.03973). **IEEE Trans. Inform. Theory** (2024), Volume 70, Issue 5, pp. 3145-3161. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2303.03650)\] \[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1109/TIT.2023.3304685)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Talk.pdf)\]
