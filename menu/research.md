@@ -106,7 +106,6 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
-Michael C.H. Choi, Max Hird and Youjia Wang. [Improving the convergence of Markov chains via permutations and projections](https://arxiv.org/abs/2411.08295). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv]([https://arxiv.org/abs/2404.12589](https://arxiv.org/abs/2411.08295))\]
 
 Youjia Wang and Michael C.H. Choi. [Information-theoretic classification of the cutoff phenomenon in Markov processes](https://arxiv.org/abs/2407.06982). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2407.06982)\]
 
@@ -129,6 +128,10 @@ Michael C.H. Choi. [Universality of the Langevin diffusion as scaling limit of a
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
+
+Vitalii Kapitan and Michael C.H. Choi. Adaptive Gradient Scaling: Integrating Adam and Landscape Modification for Protein Structure Prediction. **BMC Bioinformatics**, to appear. 
+
+Michael C.H. Choi, Max Hird and Youjia Wang. [Improving the convergence of Markov chains via permutations and projections](https://arxiv.org/abs/2411.08295). **Random Structures and Algorithms** (tentatively accepted). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv]([https://arxiv.org/abs/2404.12589](https://arxiv.org/abs/2411.08295))\]
 
 Michael C.H. Choi and Geoffrey Wolfer. [Systematic approaches to generate
 reversiblizations of Markov chains](https://arxiv.org/abs/2302.03973). **IEEE Trans. Inform. Theory** (2024), Volume 70, Issue 5, pp. 3145-3161. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2303.03650)\] \[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1109/TIT.2023.3304685)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Talk.pdf)\]
