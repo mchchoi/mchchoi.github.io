@@ -130,7 +130,7 @@ Michael C.H. Choi. [On the convergence of an improved and adaptive kinetic simul
 
 Vitalii Kapitan and Michael C.H. Choi. Adaptive Gradient Scaling: Integrating Adam and Landscape Modification for Protein Structure Prediction. **BMC Bioinformatics**, to appear. 
 
-Michael C.H. Choi, Max Hird and Youjia Wang. [Improving the convergence of Markov chains via permutations and projections](https://arxiv.org/abs/2411.08295). **Random Structures and Algorithms** to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2411.08295)\] \[[<i class="fab fa-youtube"></i> Youtube](https://youtu.be/Jnwp26L4nIc?si=ATeFw8N1uvhFz9bb)\]  \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/permutation-main.pdf)\]
+Michael C.H. Choi, Max Hird and Youjia Wang. [Improving the convergence of Markov chains via permutations and projections](https://arxiv.org/abs/2411.08295). **Random Structures and Algorithms**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2411.08295)\] \[[<i class="fab fa-youtube"></i> Youtube](https://youtu.be/Jnwp26L4nIc?si=ATeFw8N1uvhFz9bb)\]  \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/permutation-main.pdf)\]
 
 Michael C.H. Choi and Geoffrey Wolfer. [Systematic approaches to generate
 reversiblizations of Markov chains](https://arxiv.org/abs/2302.03973). **IEEE Trans. Inform. Theory** (2024), Volume 70, Issue 5, pp. 3145-3161. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2303.03650)\] \[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1109/TIT.2023.3304685)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](/menu/Talk.pdf)\]
