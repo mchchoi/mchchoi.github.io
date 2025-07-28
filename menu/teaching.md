@@ -7,25 +7,27 @@ title: Teaching
 
 ## Instructor@NUS:
 
-Spring 2025 - ST2132 Mathematical Statistics
+AY2025/26 Semester 2 - ST2132 Mathematical Statistics
 
-Spring 2024 - ST2132 Mathematical Statistics
+AY2024/25 Semester 2 - ST2132 Mathematical Statistics
 
-Spring 2023 - ST2132 Mathematical Statistics
+AY2023/24 Semester 2 - ST2132 Mathematical Statistics
+
+AY2022/23 Semester 2 - ST2132 Mathematical Statistics
 
 ## Instructor@YNC:
 
-Spring 2025 - YSC3249 Statistical Inference
+AY2024/25 Semester 2 - YSC3249 Statistical Inference
 
-Spring 2024 - YSC3249 Statistical Inference
+AY2023/24 Semester 2 - YSC3249 Statistical Inference
 
-Spring 2023 - YSC3249 Statistical Inference
+AY2022/23 Semester 2 - YSC3249 Statistical Inference
 
-Spring 2022 - YSC3249 Statistical Inference
+AY2021/22 Semester 2 - YSC3249 Statistical Inference
 
-Spring 2022 - YSC2239 Introduction to Data Science
+AY2021/22 Semester 2 - YSC2239 Introduction to Data Science
 
-Fall 2021 - YSC2239 Introduction to Data Science (2 sections)
+AY2021/22 Semester 1 - YSC2239 Introduction to Data Science (2 sections)
 
 ## Instructor@CUHKSZ:
 
