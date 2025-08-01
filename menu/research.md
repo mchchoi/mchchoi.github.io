@@ -112,8 +112,6 @@ Youjia Wang and Michael C.H. Choi. [Information-theoretic classification of the 
 
 Michael C.H. Choi, Youjia Wang and Geoffrey Wolfer. [Geometry and factorization of multivariate Markov chains with applications to the swapping algorithm](https://arxiv.org/abs/2404.12589). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2404.12589)\]
 
-Michael C.H. Choi and Geoffrey Wolfer. [Markov chain entropy games and the geometry of their Nash equilibria](https://arxiv.org/abs/2310.04115). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2310.04115)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](https://t.co/fty15wv9cD)\]
-
 Michael C.H. Choi and Youjia Wang. [Improved Langevin Monte Carlo for stochastic optimization via landscape modification] (https://arxiv.org/abs/2302.03973). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2302.03973)\]
 
 <!--- Michael C.H. Choi. [Landscape modification meets spin systems: from torpid to rapid mixing, tunneling and annealing in the low-temperature regime](https://arxiv.org/abs/2208.10054). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2208.10054)\] -->
@@ -127,6 +125,8 @@ Michael C.H. Choi. [On the convergence of an improved and adaptive kinetic simul
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
+
+Michael C.H. Choi and Geoffrey Wolfer. [Markov chain entropy games and the geometry of their Nash equilibria](https://arxiv.org/abs/2310.04115). **ALEA - Latin American Journal of Probability and Mathematical Statistics**, to appear. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2310.04115)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](https://t.co/fty15wv9cD)\]
 
 Vitalii Kapitan and Michael C.H. Choi. Adaptive Gradient Scaling: Integrating Adam and Landscape Modification for Protein Structure Prediction. **BMC Bioinformatics** (2025), Volume 26, article 161. \[[<i class="ai ai-researchgate ai-lg"></i>ResearchGate](https://www.researchgate.net/publication/392472584_Adaptive_Gradient_Scaling_Integrating_Adam_and_Landscape_Modification_for_Protein_Structure_Prediction)\] \[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1186/s12859-025-06185-2)\]
 
