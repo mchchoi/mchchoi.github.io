@@ -15,9 +15,21 @@ Ph.D. students:
 
 Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
 
-<ul>
+<ul>    
         <li>
-            <p><strong><a href="https://zheyuanlai.github.io/">Ryan Zheyuan Lai</a></strong> (NUS UROPS, 2024/25 Semester 2)</p>
+            <p><strong>Ryan Lim</strong> (NUS FYP, 2025/26)</p>
+            <ul>
+                <li>No-U-turn sampler (NUTS)</li>
+            </ul>
+        </li>
+        <li>
+            <p><strong>Oliver Kong</strong> (NUS UROPS, 2025/26 Semester 1)</p>
+            <ul>
+                <li>Decomposition of the spectral and isopermetric profile of Markov chains</li>
+            </ul>
+        </li>
+        <li>
+            <p><strong><a href="https://zheyuanlai.github.io/">Ryan Zheyuan Lai</a></strong> (NUS UROPS, 2024/25 Semester 2 - 2025/26 Semester 1)</p>
             <ul>
                 <li>Submodular optimization of multivariate Markov chains and information theory</li>
             </ul>
