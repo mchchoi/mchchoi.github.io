@@ -31,7 +31,8 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
         <li>
             <p><strong><a href="https://zheyuanlai.github.io/">Ryan Zheyuan Lai</a></strong> (NUS UROPS, NUS REx fellow, 2024/25 Semester 2 - 2025/26 Semester 1)</p>
             <ul>
-                <li>Submodular optimization of multivariate Markov chains and information theory</li>
+                <li><strong>Report:</strong> <a href="https://www.dropbox.com/scl/fi/1hyzlor2xeq5fna5wbxbj/UROPS-final-report-Zheyuan.pdf?rlkey=pqi103sz92a5p85257i9c8jvv&dl=0">Information-theoretic analysis of multivariate Markov chains:
+subset selection and minimax factorization</a></li>
             </ul>
         </li>
         <li>
