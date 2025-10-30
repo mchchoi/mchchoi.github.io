@@ -38,7 +38,7 @@ subset selection and minimax factorization</a></li>
         <li>
             <p><strong>Mulan Qin</strong> (NUS UROPS, 2024/25 Semester 2)</p>
             <ul>
-                <li>Mean-field Langevin</li>
+                <li><strong>Report:</strong> <a href="https://www.dropbox.com/scl/fi/65nnyf3y6et8h91m3pr18/UROPS_Mulan_Qin.pdf?rlkey=fpql78b4epgsgckq7vw6k18ob&dl=0">Mean Field Langevin Dynamics: Particle-Based Optimization with Landscape Modification</a></li>
             </ul>
         </li>
         <li>
