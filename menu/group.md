@@ -19,13 +19,13 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
         <li>
             <p><strong>Ryan Lim</strong> (NUS FYP, 2025/26)</p>
             <ul>
-                <li>No-U-turn sampler (NUTS)</li>
+                <li>Group-averaged Markov chains</li>
             </ul>
         </li>
         <li>
             <p><strong>Oliver Kong</strong> (NUS UROPS, 2025/26 Semester 1)</p>
             <ul>
-                <li>Decomposition of the spectral and isopermetric profile of Markov chains</li>
+                <li><strong>Report:</strong> <a href="https://www.dropbox.com/scl/fi/w6jessax8hpejyfv7n7we/UROPS_Oliver-Kong.pdf?rlkey=edcfw9186haja20sa2pglmxkn&dl=0">Decomposition of the spectral and isopermetric profile of Markov chains</a></li>
             </ul>
         </li>
         <li>
