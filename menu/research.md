@@ -106,6 +106,8 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
+Ryan Zheyuan Lai and Michael C.H. Choi. [Information-theoretic minimax and submodular optimization algorithms for multivariate Markov chains](http://arxiv.org/abs/2511.00769). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](http://arxiv.org/abs/2511.00769)\]
+
 Michael C.H. Choi and Youjia Wang. [Group-averaged Markov chains: mixing improvement](https://arxiv.org/abs/2509.02996). Preprint. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2509.02996)\]
 
 Ryan Zheyuan Lai and Michael C.H. Choi. [Information-theoretic subset selection of multivariate Markov chains via submodular optimization](https://arxiv.org/abs/2503.23340). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2503.23340)\]
