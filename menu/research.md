@@ -106,6 +106,8 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
+Michael C.H. Choi, Ryan J.Y. Lim and Youjia Wang. [Group-averaged Markov chains II: tuning of group action in finite state space](https://arxiv.org/abs/2512.13067). Preprint. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2512.13067)\]
+
 Ryan Zheyuan Lai and Michael C.H. Choi. [Information-theoretic minimax and submodular optimization algorithms for multivariate Markov chains](http://arxiv.org/abs/2511.00769). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](http://arxiv.org/abs/2511.00769)\]
 
 Michael C.H. Choi and Youjia Wang. [Group-averaged Markov chains: mixing improvement](https://arxiv.org/abs/2509.02996). Preprint. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2509.02996)\]
