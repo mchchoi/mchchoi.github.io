@@ -35,7 +35,7 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
 subset selection and minimax factorization</a></li>
                 <li><strong>Poster:</strong> <a href="https://www.dropbox.com/scl/fi/zsy0okt6et4bmgsy095zx/RExConfPoster.pdf?rlkey=5evg8ibe2e1219fyuw3l2cy18&dl=0">Information-theoretic coordinate subset and partition selection of multivariate Markov chains via submodular optimization</a></li>
               <p align="center">
-  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/poster-ZheyuanLai.png" alt="choi_chek_hin_2201_c57" width="200" height="200" />
+  <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/poster-ZheyuanLai.png" alt="choi_chek_hin_2201_c57" width="400" height="400" />
             </ul>
         </li>
         <li>
