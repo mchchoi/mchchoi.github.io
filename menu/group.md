@@ -33,6 +33,7 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
             <ul>
                 <li><strong>Report:</strong> <a href="https://www.dropbox.com/scl/fi/1hyzlor2xeq5fna5wbxbj/UROPS-final-report-Zheyuan.pdf?rlkey=pqi103sz92a5p85257i9c8jvv&dl=0">Information-theoretic analysis of multivariate Markov chains:
 subset selection and minimax factorization</a></li>
+                <li><strong>Poster:</strong> <a href="https://www.dropbox.com/scl/fi/zsy0okt6et4bmgsy095zx/RExConfPoster.pdf?rlkey=5evg8ibe2e1219fyuw3l2cy18&dl=0">Information-theoretic coordinate subset and partition selection of multivariate Markov chains via submodular optimization</a></li>
             </ul>
         </li>
         <li>
