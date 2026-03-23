@@ -118,7 +118,7 @@ Ryan Zheyuan Lai and Michael C.H. Choi. [Information-theoretic coordinate subset
 
 Youjia Wang and Michael C.H. Choi. [Information-theoretic classification of the cutoff phenomenon in Markov processes](https://arxiv.org/abs/2407.06982). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2407.06982)\]
 
-Michael C.H. Choi, Youjia Wang and Geoffrey Wolfer. [Geometry and factorization of multivariate Markov chains with applications to the swapping algorithm](https://arxiv.org/abs/2404.12589). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2404.12589)\]
+Michael C.H. Choi, Youjia Wang and Geoffrey Wolfer. [Geometry and factorization of multivariate Markov chains with applications to MCMC acceleration and approximate inference](https://arxiv.org/abs/2404.12589). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2404.12589)\]
 
 Michael C.H. Choi and Youjia Wang. [Improved Langevin Monte Carlo for stochastic optimization via landscape modification] (https://arxiv.org/abs/2302.03973). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2302.03973)\]
 
