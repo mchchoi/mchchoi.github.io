@@ -120,7 +120,7 @@ Youjia Wang and Michael C.H. Choi. [Information-theoretic classification of the 
 
 Michael C.H. Choi, Youjia Wang and Geoffrey Wolfer. [Geometry and factorization of multivariate Markov chains with applications to MCMC acceleration and approximate inference](https://arxiv.org/abs/2404.12589). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2404.12589)\]
 
-Michael C.H. Choi and Youjia Wang. [Improved Langevin Monte Carlo for stochastic optimization via landscape modification] (https://arxiv.org/abs/2302.03973). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2302.03973)\]
+Michael C.H. Choi and Youjia Wang. [Improved Langevin Monte Carlo for stochastic optimization via landscape modification](https://arxiv.org/abs/2302.03973). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2302.03973)\]
 
 <!--- Michael C.H. Choi. [Landscape modification meets spin systems: from torpid to rapid mixing, tunneling and annealing in the low-temperature regime](https://arxiv.org/abs/2208.10054). \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2208.10054)\] -->
 
