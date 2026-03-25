@@ -114,8 +114,6 @@ Ryan Zheyuan Lai and Michael C.H. Choi. [Information-theoretic minimax and submo
 
 Michael C.H. Choi and Youjia Wang. [Group-averaged Markov chains: mixing improvement](https://arxiv.org/abs/2509.02996). Preprint. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2509.02996)\]
 
-Ryan Zheyuan Lai and Michael C.H. Choi. [Information-theoretic coordinate subset and partition selection of multivariate Markov chains via submodular optimization](https://arxiv.org/abs/2503.23340). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2503.23340)\]
-
 Youjia Wang and Michael C.H. Choi. [Information-theoretic classification of the cutoff phenomenon in Markov processes](https://arxiv.org/abs/2407.06982). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2407.06982)\]
 
 Michael C.H. Choi, Youjia Wang and Geoffrey Wolfer. [Geometry and factorization of multivariate Markov chains with applications to MCMC acceleration and approximate inference](https://arxiv.org/abs/2404.12589). Submitted. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2404.12589)\]
@@ -133,6 +131,8 @@ Michael C.H. Choi. [On the convergence of an improved and adaptive kinetic simul
 <!--- (Michael C.H. Choi. [A scale function approach for Stein's method of one-dimensional diffusions](/menu/ScalefunctionSteinmethod.pdf). Submitted.) -->
 
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
+
+Ryan Zheyuan Lai and Michael C.H. Choi. [Information-theoretic coordinate subset and partition selection of multivariate Markov chains via submodular optimization](https://arxiv.org/abs/2503.23340). **To appear in Journal of Combinatorial Optimization.** \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2503.23340)\]
 
 Michael C.H. Choi and Geoffrey Wolfer. [Markov chain entropy games and the geometry of their Nash equilibria](https://arxiv.org/abs/2310.04115). **ALEA - Latin American Journal of Probability and Mathematical Statistics** (2025), Volume 22, 925–952. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2310.04115)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](https://t.co/fty15wv9cD)\] \[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.30757/ALEA.v22-37)\]
 
