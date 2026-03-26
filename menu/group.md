@@ -29,13 +29,13 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
             </ul>
         </li>
         <li>
-            <p><strong><a href="https://zheyuanlai.github.io/">Ryan Zheyuan Lai</a></strong> (NUS UROPS, NUS REx fellow, 2024/25 Semester 2 - 2025/26 Semester 1)</p>
-            <ul>
-                <li><strong>Report:</strong> <a href="https://www.dropbox.com/scl/fi/1hyzlor2xeq5fna5wbxbj/UROPS-final-report-Zheyuan.pdf?rlkey=pqi103sz92a5p85257i9c8jvv&dl=0">Information-theoretic analysis of multivariate Markov chains:
-subset selection and minimax factorization</a></li>
-                <li><strong>Poster:</strong> <a href="https://www.dropbox.com/scl/fi/zsy0okt6et4bmgsy095zx/RExConfPoster.pdf?rlkey=5evg8ibe2e1219fyuw3l2cy18&dl=0">Information-theoretic coordinate subset and partition selection of multivariate Markov chains via submodular optimization</a></li>
-              <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/poster-ZheyuanLai.png" alt="choi_chek_hin_2201_c57" width="400" height="400" />
-            </ul>
+        <p><strong><a href="https://zheyuanlai.github.io/">Ryan Zheyuan Lai</a></strong> (NUS UROPS, NUS REx fellow, 2024/25 Semester 2 - 2025/26 Semester 1)</p>
+        <ul>
+        <li><strong>Accepted paper:</strong> <a href="https://arxiv.org/abs/2503.23340">Information-theoretic coordinate subset and partition selection of multivariate Markov chains via submodular optimization</a> (<em>accepted at Journal of Combinatorial Optimization</em>)</li>
+        <li><strong>Report:</strong> <a href="https://www.dropbox.com/scl/fi/1hyzlor2xeq5fna5wbxbj/UROPS-final-report-Zheyuan.pdf?rlkey=pqi103sz92a5p85257i9c8jvv&dl=0">Information-theoretic analysis of multivariate Markov chains: subset selection and minimax factorization</a></li>
+        <li><strong>Poster:</strong> <a href="https://www.dropbox.com/scl/fi/zsy0okt6et4bmgsy095zx/RExConfPoster.pdf?rlkey=5evg8ibe2e1219fyuw3l2cy18&dl=0">Information-theoretic coordinate subset and partition selection of multivariate Markov chains via submodular optimization</a></li>
+        <img style="margin: 0px 15px 15px 0px" src="https://mchchoi.github.io/images/poster-ZheyuanLai.png" alt="choi_chek_hin_2201_c57" width="400" height="400" />
+        </ul>
         </li>
         <li>
             <p><strong>Mulan Qin</strong> (NUS UROPS, 2024/25 Semester 2)</p>
