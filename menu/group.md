@@ -23,6 +23,12 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
             </ul>
         </li>
         <li>
+            <p><strong>Keith Tan</strong> (NUS UROPS, 2025/26 Semester 2)</p>
+            <ul>
+                <li><strong>Report:</strong> <a href="https://www.dropbox.com/scl/fi/shyouawr9t9rfcilkvdl6/Tan_Yi_Xuan_Keith_UROPS_Report.pdf?rlkey=9yk1gzkiqffgtlb08nd53cmw7&dl=0">Some minimax results of permuted Markov chains</a></li>
+            </ul>
+        </li>
+        <li>
             <p><strong>Oliver Kong</strong> (NUS UROPS, 2025/26 Semester 1)</p>
             <ul>
                 <li><strong>Report:</strong> <a href="https://www.dropbox.com/scl/fi/w6jessax8hpejyfv7n7we/UROPS_Oliver-Kong.pdf?rlkey=edcfw9186haja20sa2pglmxkn&dl=0">Decomposition of the spectral and isopermetric profile of Markov chains</a></li>
