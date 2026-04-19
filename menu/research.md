@@ -132,7 +132,7 @@ Michael C.H. Choi. [On the convergence of an improved and adaptive kinetic simul
 
 ### <i class="far fa-newspaper fa-lg"></i> Publications:
 
-Ryan Zheyuan Lai and Michael C.H. Choi. [Information-theoretic coordinate subset and partition selection of multivariate Markov chains via submodular optimization](https://arxiv.org/abs/2503.23340). **To appear in Journal of Combinatorial Optimization.** \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2503.23340)\]
+Ryan Zheyuan Lai and Michael C.H. Choi. [Information-theoretic coordinate subset and partition selection of multivariate Markov chains via submodular optimization](https://arxiv.org/abs/2503.23340). **Journal of Combinatorial Optimization.** (2026), Volume 51, article 40. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2503.23340)\] \[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.1007/s10878-026-01417-4)\]
 
 Michael C.H. Choi and Geoffrey Wolfer. [Markov chain entropy games and the geometry of their Nash equilibria](https://arxiv.org/abs/2310.04115). **ALEA - Latin American Journal of Probability and Mathematical Statistics** (2025), Volume 22, 925–952. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2310.04115)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](https://t.co/fty15wv9cD)\] \[[<i class="ai ai-doi ai-lg"></i>doi](https://doi.org/10.30757/ALEA.v22-37)\]
 
