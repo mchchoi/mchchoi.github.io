@@ -106,7 +106,7 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 ### <i class="fas fa-pen fa-lg"></i> Preprints: 
 
-Ryan J.Y. Lim and Michael C.H. Choi. [Optimising two-block averaging kernels to speed up Markov chains](https://arxiv.org/abs/2603.10318). Preprint. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2603.10318)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](https://www.dropbox.com/scl/fi/xgrvbdi6bpgomp50vixxk/two-block-averaging-slides.pdf?rlkey=6do4u3zfir1dpvbzqlpamk6ks&e=1&dl=0)\
+Ryan J.Y. Lim and Michael C.H. Choi. [Optimising two-block averaging kernels to speed up Markov chains](https://arxiv.org/abs/2603.10318). Preprint. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2603.10318)\] \[[<i class="fas fa-file-pdf fa-sm"></i> Slides](https://www.dropbox.com/scl/fi/xgrvbdi6bpgomp50vixxk/two-block-averaging-slides.pdf?rlkey=6do4u3zfir1dpvbzqlpamk6ks&e=1&dl=0)\]
 
 Michael C.H. Choi, Ryan J.Y. Lim and Youjia Wang. [Group-averaged Markov chains II: tuning of group action in finite state space](https://arxiv.org/abs/2512.13067). Preprint. \[[<i class="ai ai-arxiv ai-lg"></i>arXiv](https://arxiv.org/abs/2512.13067)\]
 
