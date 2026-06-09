@@ -107,13 +107,15 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
     </div>
 </div>
 
-<div style="display:flex; justify-content:center;">
-    <div style="flex:1; max-width:50%;"> <!-- Adjust max-width as needed -->
-      <img src="/menu/adaptiveGPG.gif" alt="Potts" style="width:100%;">
-      <div style="text-align:center;">
-        <p>Comparing a local Metropolis-Hastings on the left with an adaptive group-averaged Metropolis-Hastings on the right</p>
-      </div>
-    </div>
+<!-- blank line -->
+<div id="wrapper" style="text-align:center;"> 
+    <video class="center" id="home1" width="320" height="240" controls="controls" allowfullscreen="true"> 
+        <source src="/menu/adaptiveGPG.mp4" type="video/mp4">
+    </video>
+</div>
+<!-- blank line -->
+<div align="center">
+Left: local Metropolis-Hastings. Right: Adaptive group-averaged Metropolis-Hastings.
 </div>
 
 
