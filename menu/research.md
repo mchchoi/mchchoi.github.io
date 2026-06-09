@@ -109,7 +109,7 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 
 <!-- blank line -->
 <div id="wrapper" style="text-align:center;"> 
-    <video class="center" id="home1" width="320" height="240" controls="controls" allowfullscreen="true"> 
+    <video class="center" id="home1" width="1000" height="540" controls="controls" allowfullscreen="true"> 
         <source src="/menu/adaptiveGPG.mp4" type="video/mp4">
     </video>
 </div>
