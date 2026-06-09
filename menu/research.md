@@ -30,7 +30,9 @@ Comparing 4 Langevin diffusions and momentum method on Ackley function.
     </video>
     <div class="clear"></div> 
 </div>
+-->
 <!-- blank line -->
+<!--
 <div align="center">
 Left: Langevin diffusion on the contour lines of Ackley function. Right: Improved Langevin diffusion by Fang et al. (SPA 1997)
 </div>
