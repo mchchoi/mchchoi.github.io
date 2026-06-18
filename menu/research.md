@@ -107,7 +107,17 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
     </div>
 </div>
 
+<div style="display:flex; justify-content:center;">
+    <div style="flex:1; max-width:50%;"> <!-- Adjust max-width as needed -->
+      <img src="/menu/adaptiveGPG_gif.gif" alt="GPG" style="width:100%;">
+      <div style="text-align:center;">
+        <p>Left: local Metropolis-Hastings. Right: Adaptive group-averaged Metropolis-Hastings.</p>
+      </div>
+    </div>
+</div>
+
 <!-- blank line -->
+<!--
 <div id="wrapper" style="text-align:center;"> 
     <video class="center" id="home1" controls="controls" allowfullscreen="true" style="max-width: 800px; width: 100%; height: auto;"> 
         <source src="/menu/adaptiveGPG.mp4" type="video/mp4">
@@ -116,7 +126,7 @@ Left: Classical SA on a randomly generated 500-node TSP. Right: Discrete ISA on 
 <div align="center">
 Left: local Metropolis-Hastings. Right: Adaptive group-averaged Metropolis-Hastings.
 </div>
-
+-->
 
 ### <i class="fas fa-chalkboard-teacher fa-lg"></i> Research interests:
 
