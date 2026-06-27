@@ -17,7 +17,7 @@ Undergraduate/RA/IRR/UROPS/FYP/Capstone/master/MPhil students:
 
 <ul>    
         <li>
-            <p><strong>Ryan Lim</strong> (NUS FYP, 2025/26)</p>
+            <p><strong>Ryan Lim</strong> (NUS FYP, NUS FoS Outstanding Undergraduate Researcher Prize (OURP), 2025/26)</p>
             <ul>
                 <li>Group-averaged Markov chains</li>
             </ul>
